@@ -9,7 +9,7 @@
                                                            |___/ |___/                                                                                     
 ]]
 getgenv().ServerHop = false -- set this true or false
-getgenv().Key = "" -- get key from https://discord.gg/wFSvHyK4Ge
+getgenv().Key = "" -- add soon
 -----------------------------------------------------------------------------------
 --[[          
 	                                                                                |\\--== Dont Be Skid Buddy ==--//
