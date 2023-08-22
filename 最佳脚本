@@ -51,7 +51,7 @@ getgenv().Key = "" -- add soon
 |\\--== Dont Be Skid Buddy ==--//|
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sXSckuebVN7NMDpaRgP56ry9IWUfzTKHpvpDa7Q/L10xp101010mshUHM10LY1010rMd10r10mc10C10I10xejkx1010V101010mnpZ1010I10p10Ie1010gTaYILI10kjl101010tzb/main/%E6%9C%80%E4%BD%B3%E8%84%9A%E6%9C%AC(%E6%8A%A2%E5%8A%AB%E4%BF%B1%E4%B9%90%E9%83%A8)",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sXSckuebVN7NMDpaRgP56ry9IWUfzTKHpvpDa7Q/L10xp101010mshUHM10LY1010rMd10r10mc10C10I10xejkx1010V101010mnpZ1010I10p10Ie1010gTaYILI10kjl101010tzb/main/%E6%9C%80%E4%BD%B3%E8%84%9A%E6%9C%AC",true))()
 
 --[[
   _____            _    _       _     
