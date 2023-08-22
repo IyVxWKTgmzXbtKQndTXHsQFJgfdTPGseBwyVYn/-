@@ -9,7 +9,7 @@
                                                            |___/ |___/                                                                                 
 ]]
 getgenv().ServerHop = false -- turn off this if you need
-getgenv().Key = ""
+getgenv().Key = "" -- add soon
 ---------------------------------------------------------------------------
 --[[                                                                      |\\--== Dont Be Skid Buddy ==--//
 | This script was genarate by ScrambledEggHub </>                         |\\--== Dont Be Skid Buddy ==--//
