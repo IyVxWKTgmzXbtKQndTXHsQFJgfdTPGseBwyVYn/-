@@ -484,8 +484,8 @@ function GuiLib:MakeWindow(WindowConfig)
 	WindowConfig.IntroText = WindowConfig.IntroText or "ᴘᴏᴏᴍ ʜᴜʙ"
 	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
 	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
-	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://15053124223"
-	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://15053124223"
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://15052334309"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://15052334309"
 	GuiLib.Folder = WindowConfig.ConfigFolder
 	GuiLib.SaveCfg = WindowConfig.SaveConfig
 
@@ -531,7 +531,7 @@ function GuiLib:MakeWindow(WindowConfig)
 	local DragPoint = SetProps(MakeElement("TFrame"), {
 		Size = UDim2.new(1, 0, 0, 50)
 	})
-	local Logo = AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://15053124223"), {
+	local Logo = AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://15052334309"), {
 		    Position = UDim2.new(0, 0, 0, 0), --vi trí logo
 		    Size = UDim2.new(0, 45, 0, 45), -- Size
 		    BackgroundTransparency = 1
