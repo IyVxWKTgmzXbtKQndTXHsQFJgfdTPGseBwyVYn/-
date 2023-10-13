@@ -1,1 +1,1781 @@
-do local a=[[77fuscator 0.5.1 - discord.gg/CEHsVcBcuf]];return(function(b,c,d,e,f,f,g,h,i,j,k,l,l,m,n,o,p,q,r,s,t,u,u,v,w,w,x,y,y,z,z,z,ba,ba,bb,bb,bb,bc)local bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,ca,cb,cc,cd,ce,cf,cg,ch,ci,cj,ck,cl,cm,cn,co,cp,cq,cr=0 while true do if bd<=17 then if bd<=8 then if bd<=3 then if bd<=1 then if 1~=bd then be,bf,bg,bh,bi,bj,bk=string.sub,table.concat,string.char,tonumber,next,((table.create or function(cs,ct)local cu={};for cv=1,cs do cu[cv]=ct;end;return cu;end)or tostring)else bl=1 end else if bd~=3 then bm=function(bi)local bk,cs,ct,cu,cv,cw,cx,cy=0 while true do if bk<=5 then if bk<=2 then if bk<=0 then cs,ct=g,g else if 1==bk then cu=bj(#bi)else cv=256 end end else if bk<=3 then cw=bj(cv)else if 4<bk then cx=1 else for bj=0,cv-1 do cw[bj]=bg(bj)end end end end else if bk<=8 then if bk<=6 then cy=function()local bj,cz,da=0 while true do if bj<=2 then if bj<=0 then cz=bh(be(bi,cx,cx),36)else if 1<bj then da=bh(be(bi,cx,cx+cz-1),36)else cx=(cx+1)end end else if bj<=3 then cx=(cx+cz)else if 5~=bj then return da else break end end end bj=bj+1 end end else if 7==bk then cs=bg(cy())else cu[1]=cs end end else if bk<=9 then while(cx<#bi and#a==d)do local a=cy()if cw[a]then ct=cw[a]else ct=cs..be(cs,1,1)end cw[cv]=cs..be(ct,1,1)cu[(#cu+1)],cs,cv=ct,ct,cv+1 end else if bk<11 then return bf(cu)else break end end end end bk=bk+1 end end else bn=bm(b)end end else if bd<=5 then if bd>4 then c={x,w,j,l,m,s,i,y,q,o,k,u,nil};else bo={}end else if bd<=6 then bp=v else if bd~=8 then bq=bp(bo)else br,bs=1,(-4113+(function()local a,b,c,d=0 while true do if a<=1 then if a>0 then d=(function(k,q)local s=0 while true do if 1~=s then q(q(q,q),k(k,k and k))else break end s=s+1 end end)(function(k,q)local s=0 while true do if s<=2 then if s<=0 then if(b>273)then return q end else if s<2 then b=(b+1)else c=((c+388))%44526 end end else if s<=3 then if((c%336)>=168)then return k else return k(k(k and k,q),q(k,(q and k)))end else if 5>s then return q(k(k,k),k(k,k))else break end end end s=s+1 end end,function(k,q)local s=0 while true do if s<=2 then if s<=0 then if(b>113)then return k end else if s<2 then b=b+1 else c=((c+480)%33238)end end else if s<=3 then if((c%1254)<627 or(c%1254)==627)then c=(c-945)%38017 return k else return q(q(k,q)and q(q,q),k(k,q))end else if 5~=s then return k(k(k,(k and q)),k(k,k)and q(q,q and q))else break end end end s=s+1 end end)else b,c=0,1 end else if a==2 then return c;else break end end a=a+1 end end)())end end end end else if bd<=12 then if bd<=10 then if bd~=10 then bt={}else bu=function(a,b)local c,d=0 while true do if c<=1 then if 0<c then for k=0,31 do local q=(a%2)local s=(b%2)if(q==0)then if s==1 then b=(b-1)d=(d+2^k)end else a=(a-1)if s==0 then d=(d+2^k)else b=b-1 end end b=(b/2)a=(a/2)end else d=0 end else if c==2 then return d else break end end c=c+1 end end end else if bd~=12 then bv=function(a,b)local c=0 while true do if 1~=c then return(a*2^b);else break end c=c+1 end end else bw=function()local a,b,c=0 while true do if a<=1 then if 1>a then b,c=h(bn,br,(br+2))else b,c=bu(b,bs),bu(c,bs);end else if a<=2 then br=br+2;else if 4>a then return((bv(c,8))+b);else break end end end a=a+1 end end end end else if bd<=14 then if 13==bd then do for a,b in o,l(bl)do bt[a]=b;end;end;else bx=bt end else if bd<=15 then by=function(a,b)local c=0 while true do if c<1 then return p(a/2^b);else break end c=c+1 end end else if 16==bd then bz=((2^32)-1)else ca=function(a,b)local c=0 while true do if 1>c then return(((a+b)-bu(a,b))/2)else break end c=c+1 end end end end end end end else if bd<=26 then if bd<=21 then if bd<=19 then if bd==18 then cb=bw()else cc=function(a,b)local c=0 while true do if c>0 then break else return bz-ca(bz-a,bz-b)end c=c+1 end end end else if 20<bd then ce=bw()else cd=function(a,b,c)local d=0 while true do if d~=1 then if c then local c=((a/2^(b-1))%2^((c-1)-(b-1)+1))return c-c%1 else local b=2^((b-1))return((a%(b+b)>=b)and 1 or 0)end else break end d=d+1 end end end end else if bd<=23 then if 22==bd then cf=function()local a,b,c,d,k=0 while true do if a<=1 then if a<1 then b,c,d,k=h(bn,br,br+3)else b,c,d,k=bu(b,cb),bu(c,cb),bu(d,cb),bu(k,cb);end else if a<=2 then br=br+4;else if 3==a then return(bv(k,24)+bv(d,16)+bv(c,8))+b;else break end end end a=a+1 end end else cg=function()local a,b=0 while true do if a<=1 then if a<1 then b=bu(h(bn,br,br),cb)else br=br+1;end else if a~=3 then return b;else break end end a=a+1 end end end else if bd<=24 then ch,ci,cj=nil else if bd<26 then ch=(-632+(function()local a,b,c,d,k,p,q,s,v,w,x,y,be,bf,bg,bh,bi,bj,bk,bs,bw,by,bz,ca,cc,ce,cs,ct,cu,cv,cw,cx=0 while true do if a<=15 then if a<=7 then if a<=3 then if a<=1 then if 1>a then b=15926 else c=42097 end else if a~=3 then d=746 else k=806 end end else if a<=5 then if a~=5 then p=1612 else q=449 end else if a<7 then s=19451 else v=397 end end end else if a<=11 then if a<=9 then if 8<a then x=457 else w=3 end else if 10<a then be=888 else y=444 end end else if a<=13 then if 13>a then bf=18382 else bg=749 end else if a<15 then bh=299 else bi=672 end end end end else if a<=23 then if a<=19 then if a<=17 then if 17~=a then bj=336 else bk=353 end else if 19>a then bs=920 else bw=114 end end else if a<=21 then if 20==a then by=816 else bz=26446 end else if a~=23 then ca=1632 else cc=573 end end end else if a<=27 then if a<=25 then if a>24 then cs=337 else ce=2 end else if a>26 then cu=0 else ct=1 end end else if a<=29 then if 29~=a then cv,cw=cu,ct else cx=(function(cy,cz,da,db)local dc=0 while true do if dc>0 then break else da((da(db,cz,(cz and db),da)and cy((cy and cz),da,cz,db)),da((cy and db),da,(db and cy),cz),db(cy,cy,db,cz),da(cz,cy,db,cy))end dc=dc+1 end end)(function(cy,cz,da,db)local dc=0 while true do if dc<=2 then if dc<=0 then if(cv>cs)then local cs=cu while true do cs=(cs+ct)if not(cs~=ce)then break else return cy end end end else if 1<dc then cw=((cw-cc)%bz)else cv=(cv+ct)end end else if dc<=3 then if((cw%ca)<by)then local by=cu while true do by=(by+ct)if not(by~=ce)then break else return db(db(cy,da,cz,db),cy(da,cy,cz,cz),da(cz,da,da,(cy and cy)),da(da and da,db,da,da))end end else local by=cu while true do by=(by+ct)if(by>ct)then break else return cy end end end else if 5>dc then return cy else break end end end dc=dc+1 end end,function(by,bz,ca,cc)local cs=0 while true do if cs<=2 then if cs<=0 then if(cv>bw)then local bw=cu while true do bw=(bw+ct)if not(bw~=ct)then return by else break end end end else if cs<2 then cv=cv+ct else cw=(cw+bk)%bs end end else if cs<=3 then if((cw%bi)<bj)then local bi=cu while true do bi=(bi+ct)if(bi>ct)then break else return ca((cc(bz and cc,cc,by,by)and by(ca,bz,ca,ca)),ca(cc,bz,(by and ca),ca),bz(cc,cc,cc,bz),bz(ca,ca,cc,ca))end end else local bi=cu while true do bi=(bi+ct)if(bi>ct)then break else return by end end end else if cs>4 then break else return by end end end cs=cs+1 end end,function(bi,bj,bk,bs)local bw=0 while true do if bw<=2 then if bw<=0 then if(cv>bh)then local bh=cu while true do bh=(bh+ct)if(bh>ct)then break else return bj end end end else if bw>1 then cw=(cw*bg)%bf else cv=(cv+ct)end end else if bw<=3 then if((cw%be)>y or(cw%be)==y)then local y=cu while true do y=(y+ct)if((y>ce)or not(y~=ce))then if(y<w)then return bj else break end else cw=(cw-x)%s end end else local s=cu while true do s=s+ct if(s<ce)then return bs(bi(bi,bj,bj,bk),bs(bj,bi,(bj and bi),bj),bj((bi and bj),(bi and bi),bi,(bi and bk)),bs((bs and bs),bi,bs,bs))else break end end end else if 5~=bw then return bs(bk((bi and bs),bi,bs,bk),bi(bs,bs,bi,bj),bs(bk,bi,bi,bs),(bj((bs and bj),bi,bi,bs)and bk((bj and bk),bj,bk,bs)))else break end end end bw=bw+1 end end,function(s,x,y,be)local bf=0 while true do if bf<=2 then if bf<=0 then if(cv>v)then local v=cu while true do v=v+ct if v>ct then break else return y end end end else if bf==1 then cv=cv+ct else cw=((cw-q)%c)end end else if bf<=3 then if((cw%p)<k)then local c=cu while true do c=c+ct if(not(c~=ct)or(c<ct))then cw=((cw-d)%b)else if not(not(c==w))then break else return x(s(be,x,s,y),x(be,(y and y),x,x),s(be and s,(s and x),y,be),be(be,be,s,x))end end end else local b=cu while true do b=(b+ct)if(b<ce)then return y else break end end end else if 5>bf then return be else break end end end bf=bf+1 end end)end else if 31>a then return cw;else break end end end end end a=a+1 end end)());else ci=(-871+(function()local a,b,c,d,k,p,q,s,v,w,x,y,be,bf,bg,bh,bi=0 while true do if a<=7 then if a<=3 then if a<=1 then if a~=1 then b=916 else c=458 end else if 3>a then d=28322 else k=625 end end else if a<=5 then if 4<a then q=2 else p=364 end else if 7~=a then s=778 else v=389 end end end else if a<=11 then if a<=9 then if 9>a then w=13845 else x=391 end else if a~=11 then y=393 else be=1 end end else if a<=13 then if a>12 then bg,bh=bf,be else bf=0 end else if a<=14 then bi=(function(bj,bk)local bs=0 while true do if 1>bs then bj(bk(bk,bj),bk(((bk and bj)),bk))else break end bs=bs+1 end end)(function(bj,bk)local bs=0 while true do if bs<=2 then if bs<=0 then if(bg>y)then local y=bf while true do y=y+be if(y>be)then break else return bk end end end else if 2>bs then bg=bg+be else bh=((bh-x)%w)end end else if bs<=3 then if(not((bh%s)~=v)or(bh%s)<v)then local s=bf while true do s=s+be if(s>be)then break else return bj end end else local s=bf while true do s=(s+be)if not((s~=be))then return bj(bj(bj,bk),bk(bk and bk,bk))else break end end end else if bs==4 then return bj(bj(bj,(bj and bk)),bj(bj,bk))else break end end end bs=bs+1 end end,function(s,v)local w=0 while true do if w<=2 then if w<=0 then if(bg>p)then local p=bf while true do p=(p+be)if not(p~=q)then break else return s end end end else if w~=2 then bg=bg+be else bh=(bh+k)%d end end else if w<=3 then if(((bh%b))>c)then local b=bf while true do b=(b+be)if(b<q)then return v(v(v,v and s),s(s,((s and v))))else break end end else local b=bf while true do b=((b+be))if not(b~=be)then return v else break end end end else if 5>w then return v else break end end end w=w+1 end end)else if 15==a then return bh;else break end end end end end a=a+1 end end)());end end end end else if bd<=31 then if bd<=28 then if bd>27 then ck=function()local a,b,c,d,k,p,q=0 while true do if a<=3 then if a<=1 then if a<1 then b,c=cf(),cf()else if b==0 and c==0 then return 0;end;end else if 3>a then d=1 else k=(cd(c,1,20)*(2^32))+b end end else if a<=5 then if 4<a then q=((-1)^cd(c,32))else p=cd(c,21,31)end else if a<=6 then if(p==0)then if((k==0))then return(q*0);else p=1;d=0;end;elseif(not(p~=2047))then if(k==0)then return q*(1/0);else return q*((0/0));end;end;else if a==7 then return(q*2^(p-1023))*((d+((k/((2^52))))))else break end end end end a=a+1 end end else cj=(-5433+(function()local a,b,c,d,k,p,q,s,v,w,x,y,be,bf,bg,bh,bi,bj,bk,bs,bw,by,bz=0 while true do if a<=0 then b,c,d,k,p,q,s,v,w,x,y,be,bf,bg,bh,bi,bj,bk,bs,bw,by,bz=0 else if 1<a then break else while true do if(b<=10)then if(b==4 or b<4)then if(b<1 or b==1)then if not(b~=0)then c=10283 else d=122 end else if(b<=2)then k=803 else if not(b~=3)then p=38909 else q=1606 end end end else if b<=7 then if(b<=5)then s=147 else if(b<7)then v=707 else w=566 end end else if b<=8 then x=31362 else if(10>b)then y=398 else be=3 end end end end else if b<=15 then if(b<12 or b==12)then if b==11 then bf=283 else bg=2 end else if b<=13 then bh=15973 else if 15>b then bi=166 else bj=0 end end end else if(b<18 or b==18)then if b<=16 then bk=1 else if b~=18 then bs=114 else bw,by=bj,1 end end else if(b<=19)then bz=(function(ca,cc)local ce,cs=0 while true do if ce<=0 then cs=0 else if 1<ce then break else while true do if(cs<1)then cc(ca(cc,cc),(cc(ca,cc)and ca(cc,cc)))else break end cs=cs+1 end end end ce=ce+1 end end)(function(ca,cc)local ce,cs=0 while true do if ce<=0 then cs=0 else if ce>1 then break else while true do if(cs<=2)then if(cs<=0)then if(bw>bs)then local bs=bj while true do bs=((bs+bk))if bs<bg then return ca else break end end end else if cs>1 then by=(((by-bi)%bh))else bw=(bw+bk)end end else if(cs==3 or cs<3)then if((((by%w)==bf)or((by%w)>bf)))then local w=bj while true do w=(w+bk)if((w==bg)or(w>bg))then if not(not(not(w~=be)))then break else return cc end else by=((by-y)%x)end end else local w=bj while true do w=(w+bk)if(w>bk)then break else return cc(ca(ca,cc),ca(cc,ca))end end end else if(cs~=5)then return ca(ca(cc,ca),ca(ca,cc))else break end end end cs=cs+1 end end end ce=ce+1 end end,function(w,x)local y,bf=0 while true do if y<=0 then bf=0 else if y<2 then while true do if(bf<2 or bf==2)then if(bf==0 or bf<0)then if((bw>s))then local s=bj while true do s=s+bk if not(not(not(s~=bg)))then break else return x end end end else if bf==1 then bw=bw+bk else by=((((by+v))%p))end end else if bf<=3 then if(((((by%q)==k))or(((by%q)<k))))then local k=bj while true do k=((k+bk))if(k<bk or k==bk)then by=(by-d)%c else if not(k~=be)then break else return x end end end else local c=bj while true do c=(c+bk)if(c<bg)then return x(w(w,(x and x)),w(x,x))else break end end end else if not(bf~=4)then return w(w(w,w),w(w,w))else break end end end bf=bf+1 end else break end end y=y+1 end end)else if(b~=21)then return by;else break end end end end end b=(b+1)end end end a=a+1 end end)());end else if bd<=29 then cl="\46"else if 31>bd then cm=function()local a,b,c=0 while true do if a<=1 then if a~=1 then b,c=h(bn,br,(br+2))else b,c=bu(b,cb),bu(c,cb);end else if a<=2 then br=(br+2);else if 4>a then return(bv(c,8))+b;else break end end end a=a+1 end end else cn=cf end end end else if bd<=33 then if bd~=33 then co=function()local a,b,c,d,k=0 while true do if a<=2 then if a<=0 then b=g else if 2>a then c=789 else d=0 end end else if a<=3 then k={}else if a==4 then while(d<6)do d=(d+1);while(d<793 and c%920<460)do c=((c*12))local p=(d+c)if(c%12012)>6006 then c=((c+8))while(d<418 and c%686<343)do c=((c+39))local p=(d+c)if((((c%11272))>5636 or((c%11272))==5636))then c=((c+21))local p=40550 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if 2~=q then while true do if(s>0)then break else return i(h(p))end s=(s+1)end else break end end q=q+1 end end);end elseif not((c%4==0))then c=((c+38))local p=71094 if not k[p]then k[p]=1;local p,q=cn(),g;if(p==0)then return g;end;b=j(bn,br,(((br+p))-1));br=(br+p);return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if q~=2 then while true do if not(s==1)then return i(h(p))else break end s=(s+1)end else break end end q=q+1 end end);end else c=(((c*74)))d=(d+1)local p=62152 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if q==1 then while true do if 1>s then return i(h(p))else break end s=s+1 end else break end end q=q+1 end end);end end;d=((d+1));end elseif not(((c%4)==0))then c=(c*7)while(d<269 and(c%494)<247)do c=((c-35))local p=(d+c)if((((c%9124))==4562 or((c%9124))>4562))then c=((c*39))local p=46560 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if q==1 then while true do if(s>0)then break else return i(h(p))end s=s+1 end else break end end q=q+1 end end);end elseif(c%4~=0)then c=((c*57))local p=91757 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if q>1 then break else while true do if(1>s)then return i(h(p))else break end s=(s+1)end end end q=q+1 end end);end else c=((c*56))d=d+1 local p=54689 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if 1<q then break else while true do if(s<1)then return i(h(p))else break end s=s+1 end end end q=q+1 end end);end end;d=(d+1);end else c=((c+68))d=(d+1)while(d<952 and c%424<212)do c=(c+54)local p=d+c if((c%13788))>6894 then c=(c*14)local p=88337 if not k[p]then k[p]=1;end elseif((c%4~=0))then c=(((c+15)))local p=61829 if not k[p]then k[p]=1;return z(b,cl,function(p)local q,s=0 while true do if q<=0 then s=0 else if 1<q then break else while true do if 1~=s then return i(h(p))else break end s=(s+1)end end end q=q+1 end end);end else c=((c+58))d=(d+1)local p=94036 if not k[p]then k[p]=1;return z(b,cl,function(b)local k,p=0 while true do if k<=0 then p=0 else if k<2 then while true do if p<1 then return i(h(b))else break end p=p+1 end else break end end k=k+1 end end);end end;d=(d+1);end end;d=((d+1));end c=(c+152)if d>53 then break;end;end;else break end end end a=a+1 end end else cp=cf end else if bd<=34 then cq=function(...)local a=0 while true do if a==0 then return{...},n("\35",...)else break end a=a+1 end end else if 36~=bd then cr=function()local a,b,c,d,k,p,q,s,v,w=0 while true do if a<=9 then if a<=4 then if a<=1 then if 1>a then b,c,d,k={},{},{},{}else p=m({[ch]=b,nil,[ci]=c,nil,[539]=k,[517]=bb,[402]=nil},{['\95\95\116\111\115\116\114\105\110\103']=function(...)return j(bn,br,br);end,})end else if a<=2 then q={}else if 4>a then s=745 else v=0 end end end else if a<=6 then if a~=6 then w={}else while(v<2)do v=(v+1);while v<619 and s%304<152 do s=((s-73))local d=((v+s))if((s%10016)>5008)then s=(s*55)while((v<696)and s%702<351)do s=((s*28))local d=(v+s)if((((s%3674))>1837)or not((((s%3674)))~=1837))then s=((s-86))local d=86609 if not w[d]then w[d]=1;for d=1,cf()do local j=cg();if(not(not(j==3)))then q[d]=nil;elseif(not(j~=2))then q[d]=(not(not(cg()~=0)));elseif((j==0))then q[d]=ck();elseif(j==1)then q[d]=co();end;end;p[cj]=q;end elseif s%4~=0 then s=(s-20)local d=13250 if not w[d]then w[d]=1;q[cf()]=nil;end else s=(((s*62)))v=(v+1)local d=82511 if not w[d]then w[d]=1;q[cf()]=nil;end end;v=v+1;end elseif(not(s%4==0))then s=((s-10))while((v<902)and(s%558<279))do s=((s-56))local d=(v+s)if((((s%4618))==2309)or(((s%4618))>2309))then s=((s+80))local d=61507 if not w[d]then w[d]=1;q[cf()]=nil;end elseif not(s%4==0)then s=(s+33)local d=9128 if not w[d]then w[d]=1;q[cf()]=nil;end else s=((s*67))v=(v+1)local d=79748 if not w[d]then w[d]=1;q[cf()]=nil;end end;v=(v+1);end else s=((s*54))v=(v+1)while(((v<84)and(s%1604<802)))do s=((s-78))local d=v+s if(((s%1270)>635))then s=((s-25))local d=44544 if not w[d]then w[d]=1;q[cf()]=nil;end elseif s%4~=0 then s=(s-57)local d=55925 if not w[d]then w[d]=1;q[cf()]=nil;end else s=((s*78))v=(v+1)local d=49376 if not w[d]then w[d]=1;q[cf()]=nil;end end;v=(v+1);end end;v=v+1;end s=((s+111))if(v>5)then break;end;end;end else if a<=7 then p[799]=cg();else if 8<a then s=206 else for d=1,cf()do c[d-1]=cr();end;end end end end else if a<=14 then if a<=11 then if a>10 then w={}else v=0 end else if a<=12 then while(v<2)do v=((v+1));while(v<918)and s%578<289 do s=(s*43)local c=v+s if((s%840)>420)then s=((s-78))while(v<402)and s%834<417 do s=((s+30))local c=(v+s)if((s%19846)>=9923)then s=(s*63)local c=94950 if not w[c]then w[c]=1;end elseif(s%4~=0)then s=((s-53))local c=99043 if not w[c]then w[c]=1;end else s=((s*41))v=(v+1)local c=67065 if not w[c]then w[c]=1;end end;v=(v+1);end elseif((s%4~=0))then s=((s+8))while(v<696 and s%1212<606)do s=((s-38))local c=(v+s)if(((s%15480))<7740 or((s%15480))==7740)then s=(s-1)local c=68104 if not w[c]then w[c]=1;end elseif(not(s%4==0))then s=(s*46)local c=18922 if not w[c]then w[c]=1;end else s=(((s+2)))v=(v+1)local c=40197 if not w[c]then w[c]=1;end end;v=v+1;end else s=(((s+68)))v=(v+1)while v<292 and s%1180<590 do s=(s-12)local c=(v+s)if((((s%16508)))>8254)then s=(s+81)local c=58660 if not w[c]then w[c]=1;local c=1;local d=2;local j=3;local k=4;for k=1,cf()do local x=cg();local y=cd(x,c,c);if((not(not(y==0))))then local x,y,bb=cd(x,d,j),cd(x,4,6),m({[705]=cm(),[245]=cm(),nil,nil},{['\95\95\116\111\115\116\114\105\110\103']=function(...)return cd(x,d,j);end,})if(((not((x~=0)))or(not(x~=c))))then bb[834]=cf();if(not(x~=0))then bb[579]=cf();end;elseif((not(x~=d))or(not((x~=j))))then bb[834]=((cf()-(e)));if(not(((x~=j))))then bb[579]=cm();end;end;if((cd(y,c,c)==c))then bb[245]=q[bb[245]];end;if(not(not(not(cd(y,d,d)~=c))))then bb[834]=q[bb[834]];end;if((not(cd(y,j,j)~=c)))then bb[579]=q[bb[579]];end;b[k]=bb;end;end;end elseif not((s%4==0))then s=(((s+26)))local b=46881 if not w[b]then w[b]=1;end else s=(((s+20)))v=(v+1)local b=85738 if not w[b]then w[b]=1;end end;v=v+1;end end;v=(v+1);end s=((s*77))if(v>77)then break;end;end;else if a~=14 then do for b=1,#p[ch]do local b=p[ch][b]local c,d,e=b[245],b[834],b[579]if not(not(bp(c)==f))then c=z(c,cl,function(j,k,k)local k,q=0 while true do if k<=0 then q=0 else if 2>k then while true do if(q==0)then return i(bu(h(j),cb))else break end q=(q+1)end else break end end k=k+1 end end)b[245]=c end if not(not(bp(d)==f))then d=z(d,cl,function(c,j,j)local j,k=0 while true do if j<=0 then k=0 else if j>1 then break else while true do if(1>k)then return i(bu(h(c),cb))else break end k=k+1 end end end j=j+1 end end)b[834]=d end if(not((bp(e)~=f)))then e=z(e,cl,function(c,d,d)local d,j=0 while true do if d<=0 then j=0 else if d==1 then while true do if(j>0)then break else return i(bu(h(c),cb))end j=j+1 end else break end end d=d+1 end end)b[579]=e end;end;p[cj]=nil;end;else s=437 end end end else if a<=16 then if a~=16 then v=0 else w={}end else if a<=17 then while v<5 do v=(v+1);while((v<604)and((s%1568)<784))do s=((s-43))local b=((v+s))if((s%14670)<7335)then s=((s*40))while(v<313 and((s%572)<286))do s=((s-48))local b=(v+s)if(((s%3512))==1756 or((s%3512))>1756)then s=(s*22)local b=77961 if not w[b]then w[b]=1;p[402]=function(...)local b,c,d,e,h=0 while true do if b<=0 then c,d,e,h=0 else if b~=2 then while true do if(c<=2)then if(c==0 or c<0)then d=n(1,...)else if(1<c)then do for d=0,#e do if(bp(e[d])==bq)then for i,i in o,e[d]do if(bp(i)==bp(g))then t(bo,i)end end else t(bo,e[d])end end end else e=({...})end end else if(c<3 or c==3)then h=function(d)local g,i,j=0 while true do if g<=0 then i,j=0 else if 2>g then while true do if i<=1 then if i==0 then j=u(d)else for j=0,#bo do if ba(d,bo[j])then return bm(f);end end end else if not(3==i)then return false else break end end i=(i+1)end else break end end g=g+1 end end else if c>4 then break else for d=0,#e do if(not(bp(e[d])~=bq))then return h(e[d])end end end end end c=(c+1)end else break end end b=b+1 end end end elseif not((s%4)==0)then s=(((s*91)))local b=50324 if not w[b]then w[b]=1;return p end else s=((s+76))v=v+1 local b=36025 if not w[b]then w[b]=1;return p end end;v=((v+1));end elseif not(not(((s%4))~=0))then s=(s*87)while(v<676 and(s%582<291))do s=(((s+81)))local b=v+s if((not(((s%2102))~=1051)or((s%2102))>1051))then s=((s-62))local b=6463 if not w[b]then w[b]=1;return p end elseif((s%4~=0))then s=((s-67))local b=76329 if not w[b]then w[b]=1;return p end else s=((s*95))v=(v+1)local b=86440 if not w[b]then w[b]=1;return p end end;v=((v+1));end else s=((s-10))v=(v+1)while(v<277 and s%1048<524)do s=((s-56))local b=v+s if(((s%2542))<1271)then s=((s*27))local b=41375 if not w[b]then w[b]=1;return p end elseif not(not(s%4~=0))then s=((s-59))local b=14176 if not w[b]then w[b]=1;return p end else s=(s-40)v=((v+1))local b=56683 if not w[b]then w[b]=1;return p end end;v=(v+1);end end;v=(v+1);end s=((s-526))if(v>9)then break;end;end;else if 18<a then break else return p;end end end end end a=a+1 end end else break end end end end end end bd=bd+1 end local function a(b,c)local d if bp(l)==bq then d=l;else d=l(bl);end local e={}for f,g in o,d do if g~=b then e[f]=g else e[f]=c;end end if bc then return bc(bl,e)else l=e;return l;end end;local function b(...)local c=n(bl,...);local d=c[402];local e=n(2,...);local f=c[ch];local g=c[799];local h=n(3,...);local i=c[517];local j=c[ci];local c=c[539];local c=bt[ba(bx,i)];return function(...)local i,k,n,o,p,q,s,u=cq,1,-1,{},{...},(n("\35",...)-1),{},{};for v=0,q,1 do if(v>=g)then o[v-g]=p[v+1];else u[v]=p[v+1];end;end;local v,w,x,y=(q-g+1),nil,nil,{};while true do w=f[k];x=w[705];if 83>=x then if x<=41 then if 20>=x then if x<=9 then if 4>=x then if 1>=x then if 1~=x then do return end;else local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245];do return u[y](r(u,y+1,w[834]))end;k=k+1;w=f[k];y=w[245];do return r(u,y,n)end;k=k+1;w=f[k];k=w[834];end;elseif 2>=x then u[w[245]]=u[w[834]];elseif 3<x then h[w[834]]=u[w[245]];else local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif x<=6 then if not(6==x)then local y=w[245];local z=u[y];for ba=(y+1),n do t(z,u[ba])end;else local y=w[245]u[y]=u[y](r(u,y+1,n))end;elseif 7>=x then local y=w[245]local z,ba=i(u[y](r(u,y+1,w[834])))n=ba+y-1 local ba=0;for bb=y,n do ba=ba+1;u[bb]=z[ba];end;elseif 9~=x then u[w[245]]=u[w[834]]-u[w[579]];else u={};for y=0,q,1 do if y<g then u[y]=p[y+1];else break;end;end;end;elseif x<=14 then if(x<11 or x==11)then if not(x==11)then local y=w[245];local z=u[w[834]];u[(y+1)]=z;u[y]=z[w[579]];else local y=w[245]u[y]=u[y](u[(y+1)])end;elseif(x==12 or x<12)then local y,z=0 while true do if y<=7 then if y<=3 then if y<=1 then if y>0 then u[w[245]]=u[w[834]];else z=nil end else if 3~=y then k=k+1;else w=f[k];end end else if y<=5 then if y~=5 then u[w[245]]=w[834];else k=k+1;end else if 6<y then u[w[245]]=w[834];else w=f[k];end end end else if y<=11 then if y<=9 then if 9>y then k=k+1;else w=f[k];end else if y~=11 then u[w[245]]=w[834];else k=k+1;end end else if y<=13 then if y>12 then z=w[245]else w=f[k];end else if y>14 then break else u[z]=u[z](r(u,z+1,w[834]))end end end end y=y+1 end elseif(x~=14)then local y=u[w[579]];if not y then k=(k+1);else u[w[245]]=y;k=w[834];end;else local y=w[245];do return u[y](r(u,(y+1),w[834]))end;end;elseif 17>=x then if 15>=x then local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))elseif 17~=x then local y=w[245]local z={u[y](u[y+1])};local ba=0;for bb=y,w[579]do ba=ba+1;u[bb]=z[ba];end else u[w[245]]=u[w[834]][w[579]];end;elseif x<=18 then u={};for y=0,q,1 do if y<g then u[y]=p[y+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]]+w[579];k=k+1;w=f[k];e[w[834]]=u[w[245]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]();elseif x~=20 then local y;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))else local y=w[245];local z=u[y];for ba=y+1,n do t(z,u[ba])end;end;elseif 30>=x then if 25>=x then if 22>=x then if 22>x then local y;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))else local y=w[245]local z,ba=i(u[y](r(u,y+1,w[834])))n=ba+y-1 local ba=0;for bb=y,n do ba=ba+1;u[bb]=z[ba];end;end;elseif x<=23 then u[w[245]]=u[w[834]]*w[579];elseif 25>x then local y=u[w[579]];if not y then k=k+1;else u[w[245]]=y;k=w[834];end;else u[w[245]]={r({},1,w[834])};end;elseif x<=27 then if 26==x then local y=w[245]u[y]=u[y]()else local y;local z,ba;local bb;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];bb=w[245]z,ba=i(u[bb](r(u,bb+1,w[834])))n=ba+bb-1 y=0;for ba=bb,n do y=y+1;u[ba]=z[y];end;end;elseif x<=28 then if(u[w[245]]<u[w[579]])then k=k+1;else k=w[834];end;elseif 29==x then local y;local z,ba;local bb;u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];bb=w[245]z,ba=i(u[bb](r(u,bb+1,w[834])))n=ba+bb-1 y=0;for ba=bb,n do y=y+1;u[ba]=z[y];end;else h[w[834]]=u[w[245]];end;elseif 35>=x then if x<=32 then if x>31 then u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]={};k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];if not u[w[245]]then k=k+1;else k=w[834];end;else u[w[245]]=b(j[w[834]],nil,h);end;elseif x<=33 then u[w[245]]=e[w[834]];elseif 35~=x then local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))else local y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif 38>=x then if 36>=x then do return u[w[245]]end elseif 37==x then local y=w[245]u[y](u[y+1])else if(u[w[245]]~=u[w[579]])then k=w[834];else k=k+1;end;end;elseif x<=39 then u[w[245]]=true;elseif 41~=x then u[w[245]]=u[w[834]][u[w[579]]];else u[w[245]]=h[w[834]];end;elseif x<=62 then if x<=51 then if 46>=x then if x<=43 then if 42<x then local y=w[245];local z=u[y];for ba=y+1,w[834]do t(z,u[ba])end;else if(u[w[245]]<u[w[579]])then k=k+1;else k=w[834];end;end;elseif x<=44 then u={};for y=0,q,1 do if y<g then u[y]=p[y+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];for y=w[245],w[834],1 do u[y]=nil;end;k=k+1;w=f[k];k=w[834];elseif 46>x then local y;u[w[245]]={};k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]]={};k=k+1;w=f[k];u[w[245]][w[834]]=u[w[579]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];y=w[245]u[y](r(u,y+1,w[834]))else local y=w[245]local z={}for ba=1,#s do local bb=s[ba]for bc=1,#bb do local bb=bb[bc]local bc,bc=bb[1],bb[2]if bc>=y then z[bc]=u[bc]bb[1]=z s[ba]=nil;end end end end;elseif x<=48 then if 47<x then u[w[245]]=h[w[834]];else if(u[w[245]]~=u[w[579]])then k=k+1;else k=w[834];end;end;elseif x<=49 then local y=w[245]local z={}for ba=1,#s do local bb=s[ba]for bc=1,#bb do local bb=bb[bc]local bc,bc=bb[1],bb[2]if bc>=y then z[bc]=u[bc]bb[1]=z s[ba]=nil;end end end elseif 51~=x then local y=j[w[834]];local z={};local ba={};for bb=1,w[579]do k=k+1;local bc=f[k];if bc[705]==144 then ba[bb-1]={u,bc[834]};else ba[bb-1]={e,bc[834]};end;s[#s+1]=ba;end;m(z,{['\95\95\105\110\100\101\120']=function(bb,bb)local bb=ba[bb];return bb[1][bb[2]];end,['\95\95\110\101\119\105\110\100\101\120']=function(bb,bb,bc)local ba=ba[bb]ba[1][ba[2]]=bc;end;});u[w[245]]=b(y,z,h);else local y;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif x<=56 then if 53>=x then if 52<x then local y;u={};for z=0,q,1 do if z<g then u[z]=p[z+1];else break;end;end;k=k+1;w=f[k];u[w[245]]={};k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]={};k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245];u[y]=u[y]-u[y+2];k=w[834];else local y;u={};for z=0,q,1 do if z<g then u[z]=p[z+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];y=w[245]u[y](u[y+1])end;elseif 54>=x then local y;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))elseif 55<x then u[w[245]]=u[w[834]]+u[w[579]];else local y;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif 59>=x then if 57>=x then local y=w[245];local z=w[579];local ba=y+2;local bb={u[y](u[y+1],u[ba])};for bc=1,z do u[ba+bc]=bb[bc];end local y=u[y+3];if y then u[ba]=y;k=w[834];else k=k+1 end;elseif 59>x then u[w[245]]=u[w[834]]-u[w[579]];else local y;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif x<=60 then u[w[245]][w[834]]=u[w[579]];elseif x==61 then if not u[w[245]]then k=k+1;else k=w[834];end;else u[w[245]]=b(j[w[834]],nil,h);end;elseif 72>=x then if 67>=x then if 64>=x then if x>63 then local y=w[245]u[y]=u[y](r(u,y+1,w[834]))else local y=0 while true do if y<=8 then if y<=3 then if y<=1 then if 0<y then k=k+1;else a(c,d);end else if 2==y then w=f[k];else u={};end end else if y<=5 then if 5~=y then for z=0,q,1 do if z<g then u[z]=p[z+1];else break;end;end;else k=k+1;end else if y<=6 then w=f[k];else if 8~=y then u[w[245]]=w[834];else k=k+1;end end end end else if y<=12 then if y<=10 then if 9<y then u[w[245]]=h[w[834]];else w=f[k];end else if y==11 then k=k+1;else w=f[k];end end else if y<=14 then if 14>y then u[w[245]]=h[w[834]];else k=k+1;end else if y<=15 then w=f[k];else if y==16 then u[w[245]]=u[w[834]][w[579]];else break end end end end end y=y+1 end end;elseif x<=65 then local y=w[245]u[y](u[(y+1)])elseif 67~=x then a(c,d);else local y=w[245];local z=w[579];local ba=y+2;local bb={u[y](u[y+1],u[ba])};for bc=1,z do u[ba+bc]=bb[bc];end local y=u[y+3];if y then u[ba]=y;k=w[834];else k=k+1 end;end;elseif 69>=x then if x==68 then local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))else u[w[245]]=w[834];end;elseif 70>=x then local y=w[245]u[y]=u[y]()elseif 71==x then local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245];do return u[y](r(u,y+1,w[834]))end;k=k+1;w=f[k];y=w[245];do return r(u,y,n)end;else local y=u[w[245]]+w[579];u[w[245]]=y;if(y<=u[w[245]+1])then k=w[834];end;end;elseif x<=77 then if 74>=x then if x==73 then u[w[245]]={r({},1,w[834])};else local y;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];y=w[245]u[y]=u[y](r(u,y+1,w[834]))end;elseif x<=75 then local y=w[245];u[y]=u[y]-u[y+2];k=w[834];elseif 77>x then local y;u={};for z=0,q,1 do if z<g then u[z]=p[z+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];y=w[245]u[y](u[y+1])else local y=w[245];do return u[y](r(u,y+1,w[834]))end;end;elseif 80>=x then if 78>=x then if(u[w[245]]<=w[579])then k=k+1;else k=w[834];end;elseif x>79 then local y;local z;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];z=w[245];y=u[z];for ba=z+1,w[834]do t(y,u[ba])end;else local y=w[245]u[y](r(u,y+1,n))end;elseif 81>=x then u[w[245]]={};elseif 82==x then local y=w[245];local z=u[y];for ba=y+1,w[834]do t(z,u[ba])end;else u[w[245]]=u[w[834]][w[579]];end;elseif 125>=x then if x<=104 then if x<=93 then if 88>=x then if x<=85 then if x>84 then u[w[245]]=false;else k=w[834];end;elseif 86>=x then u[w[245]]=#u[w[834]];elseif 87<x then if(w[245]<=u[w[579]])then k=k+1;else k=w[834];end;else local t=w[245]u[t](r(u,t+1,w[834]))end;elseif 90>=x then if x>89 then u={};for t=0,q,1 do if t<g then u[t]=p[t+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]]+w[579];k=k+1;w=f[k];e[w[834]]=u[w[245]];k=k+1;w=f[k];do return end;k=k+1;w=f[k];do return end;else if(u[w[245]]<=u[w[579]])then k=k+1;else k=w[834];end;end;elseif 91>=x then e[w[834]]=u[w[245]];elseif x~=93 then if(u[w[245]]~=u[w[579]])then k=k+1;else k=w[834];end;else u[w[245]]=#u[w[834]];end;elseif x<=98 then if x<=95 then if x~=95 then local t=w[245]u[t]=u[t](u[t+1])else u[w[245]]();end;elseif x<=96 then u={};for t=0,q,1 do if t<g then u[t]=p[t+1];else break;end;end;elseif 98~=x then local t;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][u[w[579]]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))else if(u[w[245]]~=u[w[579]])then k=w[834];else k=k+1;end;end;elseif x<=101 then if x<=99 then local t,y=0 while true do if t<=7 then if t<=3 then if t<=1 then if t<1 then y=nil else u[w[245]]=u[w[834]][w[579]];end else if 2<t then w=f[k];else k=k+1;end end else if t<=5 then if t>4 then k=k+1;else u[w[245]]=u[w[834]];end else if t~=7 then w=f[k];else u[w[245]]=e[w[834]];end end end else if t<=11 then if t<=9 then if t~=9 then k=k+1;else w=f[k];end else if 11>t then u[w[245]]=u[w[834]][w[579]];else k=k+1;end end else if t<=13 then if t>12 then y=w[245]else w=f[k];end else if t~=15 then u[y]=u[y](r(u,y+1,w[834]))else break end end end end t=t+1 end elseif x<101 then local t;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))else u[w[245]]=w[834];end;elseif 102>=x then u[w[245]]=u[w[834]]+w[579];elseif 103<x then local t=w[245];do return r(u,t,n)end;else local t=w[245];local y,z,ba=u[t],u[t+1],u[t+2];local y=y+ba;u[t]=y;if ba>0 and y<=z or ba<0 and y>=z then k=w[834];u[t+3]=y;end;end;elseif 114>=x then if 109>=x then if 106>=x then if 106>x then u[w[245]]=u[w[834]]+u[w[579]];else if u[w[245]]then k=k+1;else k=w[834];end;end;elseif 107>=x then if not u[w[245]]then k=(k+1);else k=w[834];end;elseif x==108 then local t=w[245];do return r(u,t,n)end;else local t=w[245]local y={u[t](u[t+1])};local z=0;for ba=t,w[579]do z=z+1;u[ba]=y[z];end end;elseif x<=111 then if 110==x then local t;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))else local t;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))end;elseif 112>=x then u[w[245]]=e[w[834]];elseif 114~=x then local t;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))else local t;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))end;elseif 119>=x then if x<=116 then if x~=116 then u[w[245]]=u[w[834]]/w[579];else local t;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245]u[t]=u[t](r(u,t+1,w[834]))end;elseif 117>=x then if(u[w[245]]<=w[579])then k=k+1;else k=w[834];end;elseif 118<x then if(w[245]<u[w[579]])then k=k+1;else k=w[834];end;else u[w[245]]={};end;elseif 122>=x then if 120>=x then local t,y=0 while true do if t<=12 then if t<=5 then if t<=2 then if t<=0 then y=nil else if t<2 then u={};else for z=0,q,1 do if z<g then u[z]=p[z+1];else break;end;end;end end else if t<=3 then k=k+1;else if 5~=t then w=f[k];else u[w[245]]=false;end end end else if t<=8 then if t<=6 then k=k+1;else if 7<t then u[w[245]]=h[w[834]];else w=f[k];end end else if t<=10 then if 9==t then k=k+1;else w=f[k];end else if 11==t then for z=w[245],w[834],1 do u[z]=nil;end;else k=k+1;end end end end else if t<=18 then if t<=15 then if t<=13 then w=f[k];else if t==14 then u[w[245]]=e[w[834]];else k=k+1;end end else if t<=16 then w=f[k];else if t~=18 then u[w[245]]=u[w[834]][w[579]];else k=k+1;end end end else if t<=21 then if t<=19 then w=f[k];else if 20<t then k=k+1;else u[w[245]]=u[w[834]];end end else if t<=23 then if t>22 then y=w[245]else w=f[k];end else if t<25 then u[y]=u[y](u[y+1])else break end end end end end t=t+1 end elseif 121<x then u[w[245]][u[w[834]]]=u[w[579]];else if(w[245]<u[w[579]])then k=k+1;else k=w[834];end;end;elseif 123>=x then local t;u={};for y=0,q,1 do if y<g then u[y]=p[y+1];else break;end;end;k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=#u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];t=w[245];u[t]=u[t]-u[t+2];k=w[834];elseif x==124 then u[w[245]]=u[w[834]]/w[579];else for g=w[245],w[834],1 do u[g]=nil;end;end;elseif 146>=x then if 135>=x then if x<=130 then if 127>=x then if x==126 then local g;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];g=w[245]u[g]=u[g](r(u,g+1,w[834]))else u[w[245]]=u[w[834]]/w[579];k=k+1;w=f[k];u[w[245]]=u[w[834]]-u[w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]]/w[579];k=k+1;w=f[k];u[w[245]]=u[w[834]]*w[579];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];k=w[834];end;elseif x<=128 then u[w[245]]=u[w[834]]%u[w[579]];elseif x==129 then u[w[245]]=u[w[834]]%w[579];else if u[w[245]]then k=k+1;else k=w[834];end;end;elseif x<=132 then if 131==x then do return u[w[245]]end else local g=w[245];n=g+v-1;for p=g,n do local g=o[p-g];u[p]=g;end;end;elseif x<=133 then if(w[245]<=u[w[579]])then k=k+1;else k=w[834];end;elseif 134<x then local g=w[245];local p=u[w[834]];u[g+1]=p;u[g]=p[w[579]];else local g;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];g=w[245]u[g]=u[g](r(u,g+1,w[834]))end;elseif 140>=x then if x<=137 then if x<137 then local g;u[w[245]]=u[w[834]]%u[w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]]+w[579];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];g=w[245]u[g]=u[g](r(u,g+1,w[834]))else local g;u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];g=w[245]u[g]=u[g](r(u,g+1,w[834]))end;elseif x<=138 then u[w[245]]=u[w[834]]*w[579];elseif x<140 then local g=w[245];u[g]=u[g]-u[g+2];k=w[834];else u[w[245]]=false;end;elseif 143>=x then if(141==x or 141>x)then local g=w[245];local p,q,t=u[g],u[g+1],u[g+2];local p=(p+t);u[g]=p;if t>0 and p<=q or(t<0 and(p>=q))then k=w[834];u[g+3]=p;end;elseif 142==x then a(c,d);else local a=j[w[834]];local c={};local d={};for g=1,w[579]do k=k+1;local j=f[k];if j[705]==144 then d[(g-1)]={u,j[834],nil,nil,nil};else d[(g-1)]={e,j[834],nil,nil};end;s[#s+1]=d;end;m(c,{['\95\95\105\110\100\101\120']=function(g,g)local g=d[g];return g[1][g[2]];end,['\95\95\110\101\119\105\110\100\101\120']=function(g,g,j)local d=d[g]d[1][d[2]]=j;end;});u[w[245]]=b(a,c,h);end;elseif x<=144 then u[w[245]]=u[w[834]];elseif x==145 then local a=w[245]u[a]=u[a](r(u,a+1,n))else local a;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];a=w[245]u[a]=u[a](r(u,a+1,w[834]))end;elseif x<=157 then if x<=151 then if 148>=x then if not(x~=147)then u[w[245]][w[834]]=u[w[579]];else u[w[245]]=u[w[834]][u[w[579]]];end;elseif(x==149 or x<149)then local a,c=0 while true do if a<=7 then if a<=3 then if a<=1 then if 1>a then c=nil else u[w[245]]=u[w[834]][w[579]];end else if 2<a then w=f[k];else k=k+1;end end else if a<=5 then if 5>a then u[w[245]]=u[w[834]];else k=k+1;end else if a==6 then w=f[k];else u[w[245]]=e[w[834]];end end end else if a<=11 then if a<=9 then if a<9 then k=k+1;else w=f[k];end else if a<11 then u[w[245]]=u[w[834]][u[w[579]]];else k=k+1;end end else if a<=13 then if 12==a then w=f[k];else c=w[245]end else if a~=15 then u[c]=u[c](r(u,c+1,w[834]))else break end end end end a=a+1 end elseif not(x~=150)then u[w[245]]=u[w[834]]%u[w[579]];else k=w[834];end;elseif 154>=x then if x<=152 then do return end;elseif 153==x then e[w[834]]=u[w[245]];else for a=w[245],w[834],1 do u[a]=nil;end;end;elseif 155>=x then local a;local c,d;local g;u[w[245]]=h[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];g=w[245]c,d=i(u[g](r(u,g+1,w[834])))n=d+g-1 a=0;for d=g,n do a=a+1;u[d]=c[a];end;elseif 157~=x then u[w[245]]=u[w[834]]%w[579];else local a=w[245]u[a](r(u,a+1,n))end;elseif x<=162 then if x<=159 then if x~=159 then local a=w[245]u[a](r(u,a+1,w[834]))else local a;u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];u[w[245]]=w[834];k=k+1;w=f[k];a=w[245]u[a]=u[a](r(u,a+1,w[834]))end;elseif 160>=x then local a;u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];u[w[245]]=u[w[834]];k=k+1;w=f[k];u[w[245]]=e[w[834]];k=k+1;w=f[k];u[w[245]]=u[w[834]][w[579]];k=k+1;w=f[k];a=w[245]u[a]=u[a](r(u,a+1,w[834]))elseif x>161 then u[w[245]][u[w[834]]]=u[w[579]];else local a=w[245];n=a+v-1;for c=a,n do local a=o[c-a];u[c]=a;end;end;elseif x<=165 then if x<=163 then if(u[w[245]]<=u[w[579]])then k=k+1;else k=w[834];end;elseif x<165 then u[w[245]]=u[w[834]]+w[579];else u[w[245]]();end;elseif 166>=x then u[w[245]]=true;elseif x<168 then u[w[245]]=u[w[834]]-w[579];else u[w[245]]=u[w[834]]-w[579];end;k=k+1;end;end;end;return b(cr(),{},l())();end)('21F23H23323H23B22627927A27B27922722327A21Q21O2131W21M27E27A21M21B2181Y21722722027A2191X1W21921B27L27U27921P21M27I1W21522722227V21221B21O28927A1Z28021222722427A1X21P27M27921621721821N28828A27927O21P21122721Z27V1X21O1X21N21M27J27S28W22621427J21622722127A21521721M2142171W21K27T27A21N1W21Q21B21929027F27921Q27Z1Y1Y29G29I29K27J2141X28F2792A72A921U27A21P29K1Z29K28027P27R22722527A21O21721Q2AN2AF21N21828P22628H21M21928J21Y27N28N28527J28828222627J2AG21O27L29B21521P2AV22722727A24V27C22621A2121E22723X27A24O22623G23A24Z22R1M21725V22E2461U23N21122V1D21522924L24I22B22B22K1J26626X23N23S21W21C25B24G22L22J21I26M2281423L101R22L1421926V23M26H1T26J26022P26D26F25R26W22922T22I24723L1522I23N24Y26T2601W23M22T24L24P26Q21C22I26826A25F1J22F25Y26123523721521F26923821Q132542391621427O22C1Z24122H24F23W24S2381E26W22A26S25L23K21521N24P25Q27022M22V21324025I22I1L23H24Z2431M22H22F24G25G1H26A25L23L2141Y24J25M23C23O24D23Q24G1L24G22X22E26O1V1M25C1J22A26O25J2251O21W26G21F26M1S21321621G25Y1S26F26J23421W1U26H25F21M21V21X102701C2B321W1C24Y21W22123523Q25U23A26B24P24R26D22J2AA22625G21N1T132BJ27A25G2HE27926Z2HH2262632AT27926R1D2A92BK27926J2HK25Q2HN22623X21622F2H825Q21N1I1L22726T27A25C21M181625C22H21L1424H21J26921C26C2241J22T22K21F25S25T21I1X21R23G24W23X26E26E21C1U26425R21C23823J2471623G25Y22322721M22X22F24V26824D22E2562521524X25B23R23V101Z1G26O26F22P1E25V26T23Q25922Q26T1S26R26O24C1V22Q24824R26Q23822R26F2481T21Z2331624X2251922T25Q21Y2391T22Z1M21K21S24H23124P26A26C21T21Z24S1325P24N25N22P1324A26X24T22X21G1G24G2731Z21121F23K24J1Y22O21B26K26T21524H26Z26I1O1K26326X22026B26Y25B26F21026T1C1625G21522O26S21X21M25E26P23D22F23823Q1625B2181V1Q21X24M23924H23L21Z21821224126R1L21B21C22P25V2152391822P21R26S22P23E21J2272B32791H1O1B1S1T1711102AX1Y1X21L21728E29B1H1B101O27B25Q26524223U1F2BN22625A2352H821L28C2BE27A21621N1Z2AS29H2NJ1H29E21721I22721W27A1H1H1W21721L2OP2OR2OM2262OV29U21321O28O2NI2P32OO2P52P729Q2ON21321M2NW2OS2OU1H21M2B52862152O92372BR2OT2792NT21B2162842PO2H821521B2AI2A42791621M21M21Q1929K2O92342BR25I27A1F1Y21B21P22Q2322PG23221B21Q21Q21728D21P23221M2OF2QV2122172QY2952172QU1X2142QO21527X21J23228C21K2R021821721421B2A229N2322AI2QL21B1W2162QY2R02AG1W21P28021327X2QU27W21N2P72B72R12962152122RL2RA2RF2S328D2R02OP21P21927I2182AL2RA2OQ2SG21N2192132RW28722O22723027A1P2QX2OQ29V21M1Y2RA2SC23221J2962QV21O21J2S32PM2322AG21722621V27A2HS2262Q42262AG2QW1X1X21127C28L27A2922O927B25Y2TH2O92TS2TJ29B2OX21I27L2P229J29L29N21K2U02TF27B22Q2TV27A22K27928L2TI27A2AO2UF27928A29B27B2UQ2B32BK22021822627U2UT2TJ2262221Q27A2UZ22625P22627F2UB27A2201D22628L27F2BK28L2V227A2VG27921F2VE2VO2O92V728L2VA27A2TX27D2TZ2UN2OB2271527A1R2BC2321F2Q72172OK21M2QU2TB1A2OJ21Q23223D23D21421N2SF2802942321221N21B232112182WJ2WL2PM21O2QL1821B2131Y2QU1A2R321Q2PG2R01C2R321M2321B2142A82BD21P27C2B92261K2UN2XN27A2322TV2UK2XO27C2XS2O92XV2V12VY2352XT27B2BR2662W22W42B62172RQ2TB2OI2OK2WG2WI2WK27Z2WX22Q21V2GU2972322172RD2T82QV2132RM2QM2XC27H1X2RD2RQ2152AQ2802NW22O2YJ1Q2QZ23227W28R2322AQ28H2992RQ1X2182SF2S12R02RO2Y92S52122YI21W2X52142T92872QO2A22QO2W72W92QK2QY28023221L2QJ2YM1W2ZM22O2UB22Y27B2TU2UF22K1B2VO2TI310E2262AO2U021S21J2VO22I2V02UO2V3279310P2BK310M310O2V02BK2VJ310T2V023225U2XY27B2UM22631132V8310Q310J2VB1I2XY2AE2BK27F3110226311G27923A311C31172UB2B32XK3115311821D2UX311W279311727A29H2TI29Y311827929H2P231172XQ2VO2U0311Z2VW2P22UF311S2UO31162V022022A27A22H310Y2V1310S226312N2HS2U02XX310W28L2SU2TI311J312Y311831142UQ311C279312W22622B2V02UP312Q31392HS311N2AO311P27B2B33123312H27923221E311A31233128312N2VS2UL27B2U0313K27A311J312S2792V7310K2TV2VV311B27B2B92HX2BH2AW29B2B128D2Y122624U1X1E2O92VZ2SU2792Z52132QU28C2QU31062322QR21O2XG28H27Y2SD2OK2SZ2322NT1Y311Z22P27B23F2Y1312C2O9313427B31292UP2TY27C313X315E27927F31232VT312G2UG312531352262UH2262B329B315U292312328W29H22M310Q28L21X311A2VX2AE2PT2BN316631662U02UB26K311W316A316627A316G27U316J226316A22225F22629H3166312T316S2VP27C310I313J27B2O2310C2BN310I2OT316025H315V22622V311226E311K226316N313K2QF2AE2AE2VW313M279317J2VK2BN2TG2XX27A21S311T2O921T2XO3163316N2O922N317F2UN317U31822UI27B262226317U2B9317U2OH226317X315D27B3163312E2BN3182317K2TV2UH318N317W315T27A2UB3189317X2B9317X27A314J2TG318Y316X22631892TG2B92TG316K311C316N31982V1316R2B322G310Q23331792VT3187292315B31363179317327B1Y31792UF31452XX316A314F2OA2OC29B21M21J2QR2AX26421B1U1Q314527A2BP2BR2BT2792BV2BX2BZ2C12C32C52C72C92CB2CD2CF2CH2CJ2CL2CN2CP2CR2CT2CV2CX2CZ2D12D32D52D72D92DB2DD2DF2DH2DJ2DL2DN2DP2DR2DT2DV2DX2DZ2E12E32E52E72E92EB2ED2EF21B2EH2EJ2EL2EN2EP2ER2ET2EV2EX2EZ2F12F32F52F72F92FB2FD2FF2FH2FJ2FL2FN2FP2FR2FT2FV2FX2FZ2G12G32G52G72G92GB2GD2GF2GH2GJ2GL2GN2GP2GR2GT2GV2GX2GZ2H12H32H52H72U22OQ28127A26321M1E1V265142PE2BA2RU2NW27L314M2262SW31012SY2192T02T22AQ2T42T62852ZS2152QV1X2TC2172TE2U0318N2NH2B42PY2B7319Y2VZ29B29D2RP2AX27H27J27L22927A2642121P1525Y21V23B22H25223A26D23526M21S21Z22S21Z1Y25G25O21I2372IW24W23U26V26H21621W25O2BN31AC2BS2BU2BW2BY2C02C22C42C62C82CA2CC2CE2CG2CI2CK2CM2CO2CQ2CS2CU2CW2CY2D02D22D42D62D82DA2DC2DE2DG2DI2DK2DM2DO2DQ2DS2DU2DW2DY2E02E22E42E62E82EA2EC2EE2EG2EI2EK2EM2EO2EQ2ES2EU2EW2EY2F02F22F42F62F82FA2FC2FE2FG2FI2FK2FM2FO2FQ2FS2FU2FW2FY2G02G22G42G62G82GA2GC2GE2GG2GI2GK2GM2GO2GQ2GS316O31CZ2GY2H02H22H42H62HX2AQ21Q2O32O52O72HK24V22731572Q52R02162GB2YT233232162RE31A32QJ2AG2Y92Z629N2SG31A32PH2RQ27W2RU27O27K21P2SS27B2VD2TT2XN22K23I312O318T3193316B2V0316E2UG310F313T27A319I319N27A2O2313G2O9310I28A3117222317828L2Y02HS319I27U2XX232263311W2B9315D318K2O92P92UF2B32P9315J2UY31JD279220210311W31JY313Y312Q31KL31JA311W313K22L316W319K315U311R315Q2262922P2315U2OT31KA315R316A2U02322OT312631J8279310I292319X319G29H319Q27A25V311X315H315T31JB27U31KR31KT31JR2792B3316N315Y316W31LB27931L22BN29H31L52XP31L831LW31KY31JI31M631LE316W31LH27931LJ311S312Z312Q31822BK31KP31LO2VB31KJ27U234311B311J31MO31MI31LN316727931KS29H31KU31LS31LK31LV31L031LY319T27B31M131KG311831M42P2310C31LC316O27B31LF31M62O931MD2XU2UG31MT31LP31MX31LR317931LU27931KZ31KX31LZ27C31N63187313M31N931LA315T310F31LD31NE31MA2TV31NI27B31MF27A22W310Q319V315C316R28L2922HS25E31JE27C2VR31OK27931OD2BN318Q314F31EB27N31A327S2B931DA31DC31DE31FF2BQ31FH31AF31FJ31AI31FM31AL31FP31AO31FS31AR31FV31AU31FY31AX31G131B031G431B331G731B631GA31B931GD31BC31GG31BF31GJ31BI31GM31BL31GP31BO31GS31BR31GU31BU31GX31BX31H031C031H331C331H631C631H931C931HC31CC31HF31CF31HI31CI31HL31CL31HO31CO31HR31CR31HU31CU31HX31CX31I02GW31I231D231I52H7312331EG27K22731EJ27931EL31EN31EP31ER31ET31EV31EX31EZ31F131F331F531F731F931FB31FD31I72AR31IA2O61F31ID2ST27A314O314Q3104314T314V314X2RO219315029U31DQ31531X2A327B310F27A21H31J92VW2XV319K2TR31ON315U3143313L2BK2VD31MS311A311Z31K02UN318927U31K627B31662V931N722631SO2XX310I29H315X310F317031LB31O231LK226314J27U310C2U02UV311A31SK311W311J31TF31SX31MU2O93189315M313Y2VB2UW27931TF311I312Q31TF31KP27F312E31KS31K131NO29H2P931KV31MU31LV312G31TA31N731L731K531O0316Z31ND27A319G31KF31NH31TK311B31TW31M522631TZ314631KX316T31KX31T4318S31M631U731NG316X31UA31SR31UC31T331UE27931UG31N427C31LJ313X31O927922J2V031UL2P231KI311A1C31MP312Q31VI31SL31TX27B31UO31SZ315R31U331MZ312331U62BN31U831NX31N831UB31NR31M72GT31O431UH2BN31V831NJ31LB31JB31VN27A31VP31U1318331LX317931VU31W131UW31TB31M331W031UX31UD31M931W531V731UJ31VA22622S31OC31LL2UR316R2UU31WX317L27C1N310B2XO319I317S27926N31ON31LI31UP2UK1V31UP27C31XB31SD315L31XE31M72UJ3171311C31SZ310F28A2U031JV2VO31JB31SL27U311Z31893121317P27A316627U31JH31JL316W31XR317931T231M631VU310F2OT2XK314J31NW316X31TD27U22T2V031T1312Q31YN31XY31UM31Y1311B313K2VN31KC315C312Q22U31VD31JB3166311Z28L31692TV316C316X2UB319I311L3174310F2TG31U3310F317U31YE318F31T7314J2AE319231TC2UW316631Z12BK2AE311J31ZT279319I316D2O9232318231Z931W131Y82AE31JN28L2TG319X27B1P3183319C2TI2VC311W22F31JG312P27A320J310Z312Q31XX31ZY311W319K320231WN3173319I29H31JN31892V531TK320D31W5312Z31OF31832UU25D316X2BK2UM31I9313L2BN321D31XC321G2XX22032192AO2BK2VH29Z31TO2O9321I31JR31XS31462O22VL31ZE320S313Y317828A320D31SL2B331Y031M62TI312E31662B331Y7320R31OH321T31ND31YC31SU31M72AE31YH31M6318N31ZQ3179142V0292311J322Q316V322B2TV3189322E315R2QG319J31LL311J322331LM31793226322Z31UM322A31ZA27B319I323927B317531N4310I322I31T5317E322L292322N31TP31793235322S312Q32352VO3225322X3227312027B2O8322W31X3316Q2XY23631X231XH311B31IF27A1D2RO31DU21N31532132112RS2PM2WF31DW2TA31E031R02XC2QW2R031J02842RO2WA31SE31O0319U31WY31LL31RQ27931DN2XC31DP31DR2QO31DT2T5324G324N2ZT2TB2TD324Y32052UN31OP325H2H82YB2AS322Q279172R6325B32592RS31E22TA212314P2RL2R32RV29J2QL325T2T32YV2SI27Q2RA325D31DY2YA2WE2YD2WV2YG29427C31KA12319Y2TV31292BN2XV321N2UN31JK2XR311B31SD312U2TW325131VY314K2OC2P22TM2122TO2TQ31N5323G326M3201326U327A31X32UF2TI2UK325K27B312331EF28621M327131RK321G2262O431RN22721G27A23031RS2Z72Z021M2ZI2TC2R52PH2OX2RQ1Z2RA2QZ28D2XC2R52TC2PM2OX22O2321T2Z631IJ2Y82QO2RP31022PG2S72QZ21O232328L32872RA2QI284310228D1Z23229M2171Y2B72QU2XG2RB2OJ2RO2PG21J22O2302322352321428N2AR2S71T27O32961W27C318D325I318O320Q320G31KJ31ZU31VJ27A311L31KP326R31Y831XK320U326T31L62OT326T311731JS317V319G2VI31O631XM310R2TY320O32A132482XX327G29B21821J2PH27C2UQ31MB31XI324927A319S31X9226327I27A2UE27D2P92NK2NM2NO2NQ2NS2NU2NW2TV2BR2U62A61W2A82H82AC327O316N2192S12AQ27K329Q2TE2BN22I2BR316N32BT28R31ED2Y8327F318N2TM2AI27O27O27Q27S31QZ327M2O922E2BR311731I831RM31IC29B2OQ2PG2O922A314J2BN23232CP27C23032CS27B22Y32CV31OA32CY27922U32D031WV2BR29B2OE2802O922Q32D322O32D323I32D52OH2WE31EF2A1319S2BN23J32D323G32D323H2BR310C28529V28S29V29X28G2802B12O923E32D323F32D323C32D323D32D323A32D323B32D32EO2O923932D32362BR1831RR2Z61932802WO2WQ2WS2WU2YF2RW27X2322WD2OK2842NW232182P6217238232132RA2X02X232822WC326E2WH326G2WM21O311T314829B32BM2O932D321Y32BG2A529832BJ1X2O922M2BR22827A1B21I32BP2AG32602TC2P62QL2QW325Z314P1W22X2XC1U1T1R22O27C310P324Z2TV319I2UN31VG317N32A032GO31JZ326Z311832AO31KX321O31SE320T3187312B2TV31XK2XN2UQ31KS32GR327E2XP19315C32GV31OK326T315K312A31Y32BN32H22XN32B331X331492AV325H31UX325032H732HL31Z131TR1X1Z32EV31DW2R72X11W2QL2QN32G932GB2ZA1X29W29K2TC2SO31IV32BU31SW32AW326Y32HR321A29B325N324B31IH328U31IK2PG31IM31IO23232AR29U21P31IS2RR310531IW21Q31IY2Z72RY31J22WA32GG313I27B326L327D32HE326P32JC32B132HD32JD31SW313V31WY32HK327R2TI21I32JA327931JC32JI32H231JN3124311O32JH2XY32B131SH3193319I28A31K23182315G311Y323Q2AO317R2XY311J32K922622X32GS321K315S321B2792Y42XN321G31SD321S2O932K131ON320U32K532FI2TQ28A320N313A312Q32KX31TJ31XT320132K4311T312331VG28A24532GP22632L92UU327722632H9326R311J32LG31O12XY2XK319I27F31JN321W31UJ323L31V02UO3221226310F322V315S27C22C31792TI31L6318231YY323027921B31M632GY31M6310C315D2OT32JT31ND316A31K8316U327B3183316N31L331M6316N32M431ND310C310C21S1M31ND32LX322G312Q32MY22026L32MX2V0315W32N031Z232MM323D317E318H31TJ2TG315J3254320E31LL31KP3166318Q31ZC3249320U317O279319C31UA32NP318A31M7317U3192226319G2AE329T31WS318032LA23H319H3183315P320U3204226316327A26J32173233312Q23932KY32FY313A2U024X24X28L22032LE31VI2AO32ON22232OM32OO2UX32LE1A311C32ON22032NR2V032OU316R28A2XQ32AL321P2UU31KJ32PB31KM27G31VD321U32LM31SM2TV32LQ32NF310I32LT2V132LV32FT32LY31JN32M1321131ZB32MA3201317X292310C315J32MF2UN2OT32MI31JF31K227932OA318631X632MQ32JI2OT31MB32MV31ND32PS32MZ28M312J32N32OT32QK32N632QM31SL32OA31TJ31ZV32GK2UC32NF31DM32NH31X332NJ317E320632NN318M32R431UU31VZ32NT329T310I32NW31O432O032AH32O331WU21A32OJ27921232RL22632QK32OV27A32ON32OP32LE319S32OT24X32RR27932RT32OY27A329R32RX32P327A1032P532RY32P722632S832PC27A317D31WU32SG32LK28A32PJ32LO32PL313P322F32PP31XV28A26G32O6324327C232317X32M632LR319M2UN32Q1324027C2OT32Q932MH31WC2BN31W33270323E32R632MC27A32GI2UX2UW2B331OJ2BK323T27A32TL320R32SV315E32M531N4315N31EJ323F319I32T632L332T831VB2Y2317931M231Y8323F2XP318232T331V4323Q2B332ST32TM320L27932UE323631LT32NA322S32QX31762TV320D32TB31UK31JB2B3318N31VG2B325T32LA32UY32GR323X2O92O232SZ3147311E29H32V031YB312Q32V931KP32UU32UL32TE32UA312R31WM32VH32RC310F316632NX319G29232O331XD31L331WU2Y432PA22632V9311J32UI32RZ22632S132OQ27A32N332RX32W132W332LE32OE32S5319C21L32S9324528A32WE32VW32LC32SJ31T732LN32LZ31XP31TN321Y32SQ32LV24432SU32KR32TT2P92UQ32TD320Z32TF32M7318332SV32MR32SZ22E32VF32K332X2226320J31KH32TJ22623Y322R32UG32XG32WV320T32WX321Q2VE32TW3193323B322C320U32X732X932U032VH32M132XE317932WU32UF311J32Y232UJ31WF322D317V32NA32UO2O932UQ31V3310H32UT32R832UW22624D32LA32YK32V132WO31JO317932MO2UX32V732YJ32N532XJ32YM32Y632NL323Z32CQ32U931UX22D32VJ31UX32VL318332VO32MP32AH32VT32PF27923U32RO32YX32Y432OL32RS32OX32W427924932P132RY32OW32RU27A24732ZP32S627926B32WF32SB32ZY32GR32NC311832L429B312L31KH31KJ28A25132LA330B31MI32PI32NA32SM32V332SO32WR31LK32SR22625032N82B3313931KH321932T132KI226327Q2TV321G31JN32KK31UM318I3232325I32YI25332LA331731SL2OT318031ZZ32Y932R532QZ320D2OT31E531NK31ND32YZ32MK32Z132N927932FX31NY331P32NU323L319131O43166319C31WS320B31WU25A32RO252310Q23J331231WZ2XY24Q32O632L2331O32KT32L6330931382HK311J22B2HH32AG32PU32JX31SW32WN320T322Q32WQ31U531KH31T7315R32T731L927931R3327J31M532PX27U31K82HT311W327G311D2XY332L311H32XJ333D3236316M32NA31T132QX31UT27C321331N42UK31SO32YR22632OE31U0324431MG2HE31MJ32YH31MM332I31WU333G333Z32YZ31Y2331O333032JU31VZ334932Z729232Z931LG32AH31ME32ZD315T2HH32KQ32XM32KA31Y833082XY21D332J312Q334S32SE2791U334T27A334Y33022UF2322SU32KT31DL317P32MB332U31KE32KR332W2B932GL3278332Z31M52312BN31WB319332M1321X32K0333932U032PP310A318Z32LL332Q311A334N332U335F226335N326V32NA33362TV333U324A3364335321931WN3357315R32QZ31MZ32T732SZ22Z31VW31N431TC311E28A334V31TG334U333Y31MT331C316W32NC319I333M320C311W2P9333Q33703366335Q333W324C336S311W32UV3341336P32AJ279336P3345333J32TE334931OB331S334C31M7334E31O4334G31UI334I337D2261A2HE311J337C334M32012AO32KT315D31SV32CQ31XL31233360332W32T732PP32KE32AU31LK32PX335O32TS330J22632HT2793189332F27B32M132K2335W336F320U332U335732OP32YO27932M1333V31UY318232PP312E320X337I31M5317B335U335L33353328333833903372315P313M336B32PP336D336V2UN321132HE32SZ31WW2XJ336L333B27U336P31TT27A337F336T337H336W31WH32UP3373327E333R3374339E334J28O31YS337A311W337C32XJ339Y3379337H32XA334931YN337L31M5334D31ZL31UF31O5337R31W832XJ27L2HS32JK25B2TI2Y032JO31WG32R22VW2U0315U28L312832GZ32XO22431EJ312C22K2XQ28A3123315F32FI31KX335L315U31W5315U29H31WI319P31KX32T131WG32Q631KX32OA315U2AE2VT331Z32SW319O310C32UV319O314032VW314033BB32NU2TI22M3247323O317T2VB3219317U31XO2HS331132H131EJ317X311732KG3163338Q2UM33113337226331132NX27B331131SD17226318232O1331K2UH319C32W42UH335J32LH312Q33DC3304318S32MD331K31KS329T32W431KS32KE33DD27A33DO33DG31KS32MU32U8226310P33DI31W922631VC3192320U31NF332W313M3182312N2P932OC32S2312N32GG33DP27933ED33DG33E827A32QC31KP32X8315U31181U32XC31M531KS317M336131M532TH312932Z42P231VC33ET312L33EZ31KX3139319G33ET32FX310C312N33ET31EJ2P232X827C318233322UK33D32UH33FA2BN32FT31KS33EA32JP310P32XD31UU31VC32XZ31UU319G32Z427C31KS33F6319328L310P33FP31M731VC330732LK319G33FV310I312N33FY279314J310P33FL2UB28L31VC33G5323L319G330R32LK312N33GB310F32X833GE31T833E022633FE33G232NY32OB322F312N33GP310I32X833GS33EQ33GV314J319G33FS33GJ32VI33GM32LK32X8331R32LK320J33H832M133HA32VI33FV33HE32X833HG310I320J33FS310I32M133H832Z433HO33GU31SW28L320J33HT310F32M133H5310F32Z433H8312L33HO320J33G833HE32M133I622632Z433HW310F312L33H8313933HO33I833I333IK33H2321Y312L3332310I313933H832FX33HO32Z433HJ33HE312L33IJ3139326O310I32FX33H831EJ33HO33IX33IT313933IJ32FX33IY310F31EJ33H82XQ33HO33J933IT32FX33IJ31EJ33JA310F2XQ33H8319I33HO32FX335F33HE31EJ33IJ2XQ33IM31TJ33H82SU33HO31EJ31DL33HE2XQ33IJ319I335F310I2SU33H8335J33HO2XQ335J327028L319I33IJ2SU33KJ310F335J33H8310A33HO319I335T33H02SU33IJ335J33K8310A33H8336J33HO2SU336J33KR226335J33IJ310A33K8336J33H831OB33HO335J337K33H0310A33IJ336J33I922631OB33H832KE33HO310A338C33H0336J33IJ31OB33K832KE33H831Z133HO336J338K33HE31OB33IJ32KE31DL310I31Z133H8317B33HO31OB339833H032KE33IJ31Z133KQ32LK317B33H831WW33HO32KE339Q33H031Z133IJ317B33MU310I31WW33H831YN33HO31Z133AL33H0317B33IJ31WW33K831YN33H82UE33HO317B32B533H031WW33IJ31YN33MI310F2UE33H822R33IU335U31WW33NX33LF31YN33IJ2UE33L3310I33NX33H832GG33HO31YN32J633H02UE33IJ33NX33N6310F32GG33H8315733HO2UE31IG33H033NX33IJ32GG33OI226315733H831JB33HO33NX31JB33LF32GG33IJ315733K831JB33H8332733HO32GG332733LF315733IJ31JB33K8332733H823G33NY33GF33OV2BW33IT31JB33IJ332733LE32LK33PK33H832O533GV319G31JB32O52O927F33EN327E31OJ33ES31JR31JB310P33LQ320U31VC2P233M22VO319G32TH27C316631VC322C33QG33IV316Y310F312N33G833H633EU323L320J33HO33HC31N731TD31VC2422V0319G311J33R22HS32KE32H533Q833GX33D92TQ31VC24S312O311J33RF31SL31VC338K31VG31VC24N32LA33RO321833GX2VL29Y331131OR27A331133HG33CX32GJ33RX27A33C133S233B2323G28A33QL33DV31VC33E92VB33RD22624H33RG312Q33SG2BK33QC31N432QC33RM226264334Z31R42HE31VG31KS1633SR22633SW33SK318233SB33EJ2UG25X33H12VT312N33HT27932X833IY27933HL31KX33HN2BN33GR2TV27U33F033IT319G33IJ312N33JW33GY33QU33HK33PL33GW33QY31VY33R0318F2HE33R4312Q21T337833S9334Q31VC21S33SX33U833RJ319332FT33TN31NO312N33HW33TA33TS315U33QW2BN33TW31UY2OT319G33G133Q733QT33MP33H1319G33GZ31WS33TL33762TH32VW33UA32LK31VC33N12262O2319G32QC323G33QQ31WV322033GX182HE320U320J2P933VA33J033D427A33UX27932Z433T922633JG31WG33VM31WG33J22BN33J433TJ33EQ32JI31JD33II322F32Z433TQ33IO31M733IQ32U333IS33TX2UW320J23J2HE338P312Q33WH33T033EQ33VK318T33JN31T733I033QO32JP33VU31UU33VW31UU33VY27C33W02O927U33FS33LF33W5321Y33W731M733W9323L33WB335U33WD31YK33WF22633VG2BK33WJ27A33XI3236320J31TC31KJ320J2OC31WU33XS33XN33UC33EU33VS33IL31KX33XA33WW33TU338Y313831U92OT33HY32T9323L312L33UU33GA33VT32AH33X432LA33WL32XJ33XU311J33XM32W832ZL32LE1D2AT32OU32ZR32S22791B33YR24X32ZW31UN2HE32P633GX22L337W312Q33SQ330E33GX33V633V833VN321Y312N33N131XV31VC26733VH318233VJ27A33EA31KP32M12UB316633XO31U933ZK33W222633ND32RP33XX31NO32Z433KJ27933Y1315U33XC338O33Y533WE33EQ21433WI32XJ340B31SL33ZS334Q320J27S31WU340J33XV2UB32FT33X6316Y33VQ33ZV315U3404279340627A33XE32A933EU33FV33US33IN317A31O432M133G831WS33YG31WU1P33Z527A340L33VI31N433FP318932M132QC33UX33ZR323C33E633EQ33FS33ZX340O33WT31KX340133Y033UJ340V33Y333EU33GP322O320J21E340C311J342433WM33ZL27933EA33CA32M1322933EQ32XT33ZU341Q27B341S33XY31TJ31WG340U33Y533GV33Y43421323Q320J33ZI33XJ32XJ342V340M31ML33EQ2HG31WU3432342Z32QM340P32JP33XZ342N341X342P2BN340Y31WM33Y831MV33X9341433AQ341633YF33AT3426341C2793434311J342Y33YN32ZS27925C33YX343U33YU33CX33YX33YZ1233Z132SA33GX344433WM33QD32B4343031VC26933SX344E33Z833V531XP33V933H333VD32LU33GX2683378320J319232KG32PV2V033CU32T42BN331133VA33D033VO2TV3163340G33TS31VG320J26B33SX345931SL32Z4340N33YE33VS313933UH22633JC31KX33JE2BN33WV340Z312L33G83412345J343J32UB312L33HJ31WS342Q31WU26N343P22626A2HH332733VP332931VC25Z333Y310F33R9330S33DW323Z2TS331133Q727C331133QI33CH33GX32TZ33CL31KX2BN31XG33G12O931XG33FL346V33TR33CN33EQ318033O8339R342A33Y433O133ZV32OC32M133OD33FS347933PN33TD33ZM33Y433P1347833Y433PC347J33EU33PK347F33X033AT32OC32Z4347O340S340332R927A33F52UN33WZ2TV345W32NI31JB312L33Q428L3139346X32JI3481333N33YE33HJ32YF33YE348733Y534673187348C336Z348331X332KG312L311L2TU33CV2TV331133Q4345131MZ2O9344Z348V33AQ3490340X349233E5344Y33CG349431112VX3139341727B32OE313D31WY3327346J27C22W21N27A24M2HE32VW349P31SL31KS33XP31UN22624P33SX349Y349T3391346F33EN33Q131VZ310P32TH345S319G33YC346F346U27B31LJ349K31WU243346234A0315T338Q33B531JB31KS23E331K310P3159331S34A727A23C33DV319G33EN23D31O4310P34AD2VB349W33W33338346D314632JK',{},40,2^16,{},"\115\116\114\105\110\103",'',string.byte,string.char,string.sub,table.concat,(math.ldexp or(function(a,b)return a*(2^b);end)),(getfenv or function()_ENV['\95\69\78\86']=_ENV;return _ENV end),setmetatable,select,next,math.floor,string.format,(unpack or table.unpack),tonumber,table.insert,string.gmatch,tostring,type,_VERSION,pcall,string.match,string.find,(debug.getinfo or debug.info),string.len,rawset,string.gsub,math.random,(table.find or function(a,b)for c,d in next,a do if d==b then return c;end;end return nil;end),rawget,_G,print,setfenv);end;
+local NameHub = "ᴘᴏᴏᴍ ʜᴜʙ"
+
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local HttpService = game:GetService("HttpService")
+
+local GuiLib = {
+	Elements = {},
+	ThemeObjects = {},
+	Connections = {},
+	Flags = {},
+	Themes = {
+		Default = {
+			Main = Color3.fromRGB(40, 20, 60),
+			Second = Color3.fromRGB(30, 15, 50),
+			Stroke = Color3.fromRGB(60, 60, 60),
+			Divider = Color3.fromRGB(60, 60, 60),
+			Text = Color3.fromRGB(240, 240, 240),
+			TextDark = Color3.fromRGB(170,170,255),
+			ColorButton = Color3.fromRGB(185,170,255)
+		}
+	},
+	SelectedTheme = "Default",
+	Folder = nil,
+	SaveCfg = false
+}
+
+--Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
+local Icons = {}
+
+local Success, Response = pcall(function()
+	Icons = HttpService:JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/AutoPlayerScript/AnimeDimension/main/icons.json")).icons
+end)
+
+if not Success then
+	warn("\nAutoplayer Library - Failed to load Feather Icons. Error code: " .. Response .. "\n")
+end	
+
+local function GetIcon(IconName)
+	if Icons[IconName] ~= nil then
+		return Icons[IconName]
+	else
+		return nil
+	end
+end   
+
+local Autoplayer = Instance.new("ScreenGui")
+Autoplayer.Name = "Autoplayer"
+if syn then
+	syn.protect_gui(Autoplayer)
+	Autoplayer.Parent = game.CoreGui
+else
+	Autoplayer.Parent = gethui() or game.CoreGui
+end
+
+if gethui then
+	for _, Interface in ipairs(gethui():GetChildren()) do
+		if Interface.Name == Autoplayer.Name and Interface ~= Autoplayer then
+			Interface:Destroy()
+		end
+	end
+else
+	for _, Interface in ipairs(game.CoreGui:GetChildren()) do
+		if Interface.Name == Autoplayer.Name and Interface ~= Autoplayer then
+			Interface:Destroy()
+		end
+	end
+end
+
+function GuiLib:IsRunning()
+	if gethui then
+		return Autoplayer.Parent == gethui()
+	else
+		return Autoplayer.Parent == game:GetService("CoreGui")
+	end
+
+end
+
+local function AddConnection(Signal, Function)
+	if (not GuiLib:IsRunning()) then
+		return
+	end
+	local SignalConnect = Signal:Connect(Function)
+	table.insert(GuiLib.Connections, SignalConnect)
+	return SignalConnect
+end
+
+task.spawn(function()
+	while (GuiLib:IsRunning()) do
+		wait()
+	end
+
+	for _, Connection in next, GuiLib.Connections do
+		Connection:Disconnect()
+	end
+end)
+
+local function MakeDraggable(DragPoint, Main)
+	pcall(function()
+		local Dragging, DragInput, MousePos, FramePos = false
+		AddConnection(DragPoint.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+				Dragging = true
+				MousePos = Input.Position
+				FramePos = Main.Position
+
+				Input.Changed:Connect(function()
+					if Input.UserInputState == Enum.UserInputState.End then
+						Dragging = false
+					end
+				end)
+			end
+		end)
+		AddConnection(DragPoint.InputChanged, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseMovement then
+				DragInput = Input
+			end
+		end)
+		AddConnection(UserInputService.InputChanged, function(Input)
+			if Input == DragInput and Dragging then
+				local Delta = Input.Position - MousePos
+				--TweenService:Create(Main, TweenInfo.new(0.05, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Position  = UDim2.new(FramePos.X.Scale,FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)}):Play()
+				Main.Position  = UDim2.new(FramePos.X.Scale,FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)
+			end
+		end)
+	end)
+end    
+
+local function Create(Name, Properties, Children)
+	local Object = Instance.new(Name)
+	for i, v in next, Properties or {} do
+		Object[i] = v
+	end
+	for i, v in next, Children or {} do
+		v.Parent = Object
+	end
+	return Object
+end
+
+local function CreateElement(ElementName, ElementFunction)
+	GuiLib.Elements[ElementName] = function(...)
+		return ElementFunction(...)
+	end
+end
+
+local function MakeElement(ElementName, ...)
+	local NewElement = GuiLib.Elements[ElementName](...)
+	return NewElement
+end
+
+local function SetProps(Element, Props)
+	table.foreach(Props, function(Property, Value)
+		Element[Property] = Value
+	end)
+	return Element
+end
+
+local function SetChildren(Element, Children)
+	table.foreach(Children, function(_, Child)
+		Child.Parent = Element
+	end)
+	return Element
+end
+
+local function Round(Number, Factor)
+	local Result = math.floor(Number/Factor + (math.sign(Number) * 0.5)) * Factor
+	if Result < 0 then Result = Result + Factor end
+	return Result
+end
+
+local function ReturnProperty(Object)
+	if Object:IsA("Frame") or Object:IsA("TextButton") then
+		return "BackgroundColor3"
+	end 
+	if Object:IsA("ScrollingFrame") then
+		return "ScrollBarImageColor3"
+	end 
+	if Object:IsA("UIStroke") then
+		return "Color"
+	end 
+	if Object:IsA("TextLabel") or Object:IsA("TextBox") then
+		return "TextColor3"
+	end   
+	if Object:IsA("ImageLabel") or Object:IsA("ImageButton") then
+		return "ImageColor3"
+	end   
+end
+
+local function AddThemeObject(Object, Type)
+	if not GuiLib.ThemeObjects[Type] then
+		GuiLib.ThemeObjects[Type] = {}
+	end    
+	table.insert(GuiLib.ThemeObjects[Type], Object)
+	Object[ReturnProperty(Object)] = GuiLib.Themes[GuiLib.SelectedTheme][Type]
+	return Object
+end    
+
+local function SetTheme()
+	for Name, Type in pairs(GuiLib.ThemeObjects) do
+		for _, Object in pairs(Type) do
+			Object[ReturnProperty(Object)] = GuiLib.Themes[GuiLib.SelectedTheme][Name]
+		end    
+	end    
+end
+
+local function PackColor(Color)
+	return {R = Color.R * 255, G = Color.G * 255, B = Color.B * 255}
+end    
+
+local function UnpackColor(Color)
+	return Color3.fromRGB(Color.R, Color.G, Color.B)
+end
+
+local function LoadCfg(Config)
+	local Data = HttpService:JSONDecode(Config)
+	table.foreach(Data, function(a,b)
+		if GuiLib.Flags[a] then
+			spawn(function() 
+				if GuiLib.Flags[a].Type == "Colorpicker" then
+					GuiLib.Flags[a]:Set(UnpackColor(b))
+				else
+					GuiLib.Flags[a]:Set(b)
+				end    
+			end)
+		else
+			warn("Autoplayer Library Config Loader - Could not find ", a ,b)
+		end
+	end)
+end
+
+local function SaveCfg(Name)
+	local Data = {}
+	for i,v in pairs(GuiLib.Flags) do
+		if v.Save then
+			if v.Type == "Colorpicker" then
+				Data[i] = PackColor(v.Value)
+			else
+				Data[i] = v.Value
+			end
+		end	
+	end
+	writefile(GuiLib.Folder .. "/" .. Name .. ".txt", tostring(HttpService:JSONEncode(Data)))
+end
+
+local WhitelistedMouse = {Enum.UserInputType.MouseButton1, Enum.UserInputType.MouseButton2,Enum.UserInputType.MouseButton3}
+local BlacklistedKeys = {Enum.KeyCode.Unknown,Enum.KeyCode.W,Enum.KeyCode.A,Enum.KeyCode.S,Enum.KeyCode.D,Enum.KeyCode.Up,Enum.KeyCode.Left,Enum.KeyCode.Down,Enum.KeyCode.Right,Enum.KeyCode.Slash,Enum.KeyCode.Tab,Enum.KeyCode.Backspace,Enum.KeyCode.Escape}
+
+local function CheckKey(Table, Key)
+	for _, v in next, Table do
+		if v == Key then
+			return true
+		end
+	end
+end
+
+CreateElement("Corner", function(Scale, Offset)
+	local Corner = Create("UICorner", {
+		CornerRadius = UDim.new(Scale or 0, Offset or 10)
+	})
+	return Corner
+end)
+
+CreateElement("Stroke", function(Color, Thickness)
+	local Stroke = Create("UIStroke", {
+		Color = Color or Color3.fromRGB(255, 255, 255),
+		Thickness = Thickness or 1
+	})
+	return Stroke
+end)
+
+CreateElement("List", function(Scale, Offset)
+	local List = Create("UIListLayout", {
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		Padding = UDim.new(Scale or 0, Offset or 0)
+	})
+	return List
+end)
+
+CreateElement("Padding", function(Bottom, Left, Right, Top)
+	local Padding = Create("UIPadding", {
+		PaddingBottom = UDim.new(0, Bottom or 4),
+		PaddingLeft = UDim.new(0, Left or 4),
+		PaddingRight = UDim.new(0, Right or 4),
+		PaddingTop = UDim.new(0, Top or 4)
+	})
+	return Padding
+end)
+
+CreateElement("TFrame", function()
+	local TFrame = Create("Frame", {
+		BackgroundTransparency = 1
+	})
+	return TFrame
+end)
+
+CreateElement("Frame", function(Color)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	})
+	return Frame
+end)
+
+CreateElement("RoundFrame", function(Color, Scale, Offset)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	}, {
+		Create("UICorner", {
+			CornerRadius = UDim.new(Scale, Offset)
+		})
+	})
+	return Frame
+end)
+
+CreateElement("Button", function()
+	local Button = Create("TextButton", {
+		Text = "",
+		AutoButtonColor = false,
+		BackgroundTransparency = 1,
+		BorderSizePixel = 0
+	})
+	return Button
+end)
+
+CreateElement("ScrollFrame", function(Color, Width)
+	local ScrollFrame = Create("ScrollingFrame", {
+		BackgroundTransparency = 1,
+		MidImage = "rbxassetid://7445543667",
+		BottomImage = "rbxassetid://7445543667",
+		TopImage = "rbxassetid://7445543667",
+		ScrollBarImageColor3 = Color,
+		BorderSizePixel = 0,
+		ScrollBarThickness = Width,
+		CanvasSize = UDim2.new(0, 0, 0, 0)
+	})
+	return ScrollFrame
+end)
+
+CreateElement("Image", function(ImageID)
+	local ImageNew = Create("ImageLabel", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+
+	if GetIcon(ImageID) ~= nil then
+		ImageNew.Image = GetIcon(ImageID)
+	end	
+
+	return ImageNew
+end)
+
+CreateElement("ImageButton", function(ImageID)
+	local Image = Create("ImageButton", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+	return Image
+end)
+
+CreateElement("Label", function(Text, TextSize, Transparency)
+	local Label = Create("TextLabel", {
+		Text = Text or "",
+		TextColor3 = Color3.fromRGB(240, 240, 240),
+		TextTransparency = Transparency or 0,
+		TextSize = TextSize or 15,
+		Font = Enum.Font.Gotham,
+		RichText = true,
+		BackgroundTransparency = 1,
+		TextXAlignment = Enum.TextXAlignment.Left
+	})
+	return Label
+end)
+
+local NotificationHolder = SetProps(SetChildren(MakeElement("TFrame"), {
+	SetProps(MakeElement("List"), {
+		HorizontalAlignment = Enum.HorizontalAlignment.Center,
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		VerticalAlignment = Enum.VerticalAlignment.Bottom,
+		Padding = UDim.new(0, 5)
+	})
+}), {
+	Position = UDim2.new(1, -25, 1, -25),
+	Size = UDim2.new(0, 300, 1, -25),
+	AnchorPoint = Vector2.new(1, 1),
+	Parent = Autoplayer
+})
+
+function GuiLib:MakeNotification(NotificationConfig)
+	spawn(function()
+		NotificationConfig.Name = NotificationConfig.Name or "Notification"
+		NotificationConfig.Content = NotificationConfig.Content or "Test"
+		NotificationConfig.Image = NotificationConfig.Image or "rbxassetid://4384403532"
+		NotificationConfig.Time = NotificationConfig.Time or 15
+
+		local NotificationParent = SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 0),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Parent = NotificationHolder
+		})
+
+		local NotificationFrame = SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(25, 25, 25), 0, 10), {
+			Parent = NotificationParent, 
+			Size = UDim2.new(1, 0, 0, 0),
+			Position = UDim2.new(1, -55, 0, 0),
+			BackgroundTransparency = 0,
+			AutomaticSize = Enum.AutomaticSize.Y
+		}), {
+			MakeElement("Stroke", Color3.fromRGB(93, 93, 93), 1.2),
+			MakeElement("Padding", 12, 12, 12, 12),
+			SetProps(MakeElement("Image", NotificationConfig.Image), {
+				Size = UDim2.new(0, 20, 0, 20),
+				ImageColor3 = Color3.fromRGB(240, 240, 240),
+				Name = "Icon"
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Name, 15), {
+				Size = UDim2.new(1, -30, 0, 20),
+				Position = UDim2.new(0, 30, 0, 0),
+				Font = Enum.Font.GothamBold,
+				Name = "Title",
+				TextXAlignment = Enum.TextXAlignment.Center
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Content, 14), {
+				Size = UDim2.new(1, 0, 0, 0),
+				Position = UDim2.new(0, 0, 0, 25),
+				Font = Enum.Font.GothamSemibold,
+				Name = "Content",
+				AutomaticSize = Enum.AutomaticSize.Y,
+				TextXAlignment = Enum.TextXAlignment.Center,
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextWrapped = true
+			})
+		})
+
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.5, Enum.EasingStyle.Quint), {Position = UDim2.new(0, 0, 0, 0)}):Play()
+
+		wait(NotificationConfig.Time - 0.88)
+		TweenService:Create(NotificationFrame.Icon, TweenInfo.new(0.4, Enum.EasingStyle.Quint), {ImageTransparency = 1}):Play()
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.8, Enum.EasingStyle.Quint), {BackgroundTransparency = 0.6}):Play()
+		wait(0.3)
+		TweenService:Create(NotificationFrame.UIStroke, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {Transparency = 0.9}):Play()
+		TweenService:Create(NotificationFrame.Title, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.4}):Play()
+		TweenService:Create(NotificationFrame.Content, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.5}):Play()
+		wait(0.05)
+
+		NotificationFrame:TweenPosition(UDim2.new(1, 20, 0, 0),'In','Quint',0.8,true)
+		wait(1.35)
+		NotificationFrame:Destroy()
+	end)
+end    
+
+function GuiLib:Init()
+	if GuiLib.SaveCfg then	
+		pcall(function()
+			if isfile(GuiLib.Folder .. "/" .. game.GameId .. ".txt") then
+				LoadCfg(readfile(GuiLib.Folder .. "/" .. game.GameId .. ".txt"))
+				GuiLib:MakeNotification({
+					Name = "Configuration",
+					Content = "Auto-loaded configuration for the game " .. game.GameId .. ".",
+					Time = 5
+				})
+			end
+		end)		
+	end	
+end	
+
+function GuiLib:MakeWindow(WindowConfig)
+	local FirstTab = true
+	local Minimized = false
+	local Loaded = false
+	local UIHidden = false
+
+	WindowConfig = WindowConfig or {}
+	WindowConfig.Name = WindowConfig.Name or "Orion Library"
+	WindowConfig.ConfigFolder = WindowConfig.ConfigFolder or WindowConfig.Name
+	WindowConfig.SaveConfig = WindowConfig.SaveConfig or false
+	WindowConfig.HidePremium = WindowConfig.HidePremium or false
+	if WindowConfig.IntroEnabled == nil then
+		WindowConfig.IntroEnabled = true
+	end
+	WindowConfig.IntroText = WindowConfig.IntroText or NameHub
+	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
+	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://15052334309"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://15052334309"
+	GuiLib.Folder = WindowConfig.ConfigFolder
+	GuiLib.SaveCfg = WindowConfig.SaveConfig
+
+	if WindowConfig.SaveConfig then
+		if not isfolder(WindowConfig.ConfigFolder) then
+			makefolder(WindowConfig.ConfigFolder)
+		end	
+	end
+
+	local TabHolder = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 4), {
+		Size = UDim2.new(1, 0, 1, -50)
+	}), {
+		MakeElement("List"),
+		MakeElement("Padding", 8, 0, 0, 8)
+	}), "Divider")
+
+	AddConnection(TabHolder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+		TabHolder.CanvasSize = UDim2.new(0, 0, 0, TabHolder.UIListLayout.AbsoluteContentSize.Y + 16)
+	end)
+
+	local CloseBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		Position = UDim2.new(0.5, 0, 0, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072725342"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18)
+		}), "Text")
+	})
+
+	local MinimizeBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072719338"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18),
+			Name = "Ico"
+		}), "Text")
+	})
+
+	local DragPoint = SetProps(MakeElement("TFrame"), {
+		Size = UDim2.new(1, 0, 0, 50)
+	})
+	local Logo = AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://15052334309"), {
+		    Position = UDim2.new(0, 0, 0, 0), --vi trí logo
+		    Size = UDim2.new(0, 45, 0, 45), -- Size
+		    BackgroundTransparency = 1
+		}), "Text") 
+			-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	local WindowStuff = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10), {
+		Size = UDim2.new(0, 150, 1, -50),
+		Position = UDim2.new(0, 0, 0, 50)
+	}), {
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 10),
+			Position = UDim2.new(0, 0, 0, 0)
+		}), "Second"), 
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 10, 1, 0),
+			Position = UDim2.new(1, -10, 0, 0)
+		}), "Second"), 
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 1, 1, 0),
+			Position = UDim2.new(1, -1, 0, 0)
+		}), "Stroke"), 
+		TabHolder,
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Position = UDim2.new(0, 0, 1, -50)
+		}), {
+			AddThemeObject(SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(1, 0, 0, 1)
+			}), "Stroke"), 
+			AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 32, 0, 32),
+				Position = UDim2.new(0, 10, 0.5, 0)
+			}), {
+				SetProps(MakeElement("Image", "https://www.roblox.com/headshot-thumbnail/image?userId=".. LocalPlayer.UserId .."&width=420&height=420&format=png"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				}),
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4031889928"), {
+					Size = UDim2.new(1, 0, 1, 0),
+				}), "Second"),
+				MakeElement("Corner", 1)
+			}), "Divider"),
+			SetChildren(SetProps(MakeElement("TFrame"), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 32, 0, 32),
+				Position = UDim2.new(0, 10, 0.5, 0)
+			}), {
+				AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				MakeElement("Corner", 1)
+			}),
+			AddThemeObject(SetProps(MakeElement("Label", LocalPlayer.DisplayName, WindowConfig.HidePremium and 14 or 13), {
+				Size = UDim2.new(1, -60, 0, 13),
+				Position = WindowConfig.HidePremium and UDim2.new(0, 50, 0, 19) or UDim2.new(0, 50, 0, 12),
+				Font = Enum.Font.GothamBold,
+				ClipsDescendants = true
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", "", 12), {
+				Size = UDim2.new(1, -60, 0, 12),
+				Position = UDim2.new(0, 50, 1, -25),
+				Visible = not WindowConfig.HidePremium
+			}), "TextDark")
+		}),
+	}), "Second")
+
+	local WindowName = AddThemeObject(SetProps(MakeElement("Label", WindowConfig.Name, 14), {
+		Size = UDim2.new(1, -30, 2, 0),
+		Position = UDim2.new(0, 25, 0, -24),
+		Font = Enum.Font.GothamBlack,
+		TextSize = 20
+	}), "Text")
+
+	local WindowTopBarLine = AddThemeObject(SetProps(MakeElement("Frame"), {
+		Size = UDim2.new(1, 0, 0, 1),
+		Position = UDim2.new(0, 0, 1, -1)
+	}), "Stroke")
+	
+	local MainWindow = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10), {
+		Parent = Autoplayer,
+		Position = UDim2.new(0.5, -307, 0.5, -172),
+		Size = UDim2.new(0, 615, 0, 344),
+		ClipsDescendants = true
+	}), {
+		--SetProps(MakeElement("Image", "rbxassetid://3523728077"), {  --toi vua mo cai nay
+		--	AnchorPoint = Vector2.new(0.5, 0.5),
+		--	Position = UDim2.new(0.5, 0, 0.5, 0),
+		--	Size = UDim2.new(1, 80, 1, 320),
+		--	ImageColor3 = Color3.fromRGB(33, 33, 33),
+		--	ImageTransparency = 0.7
+		--}),
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Name = "TopBar"
+		}), {
+			Logo, -- Thêm logo vào trước nút minimize-----------------------------------------------------------------------------------------------------
+			WindowName,
+			WindowTopBarLine,
+			AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 7), {
+				Size = UDim2.new(0, 70, 0, 30),
+				Position = UDim2.new(1, -90, 0, 10)
+			}), {
+				AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				AddThemeObject(SetProps(MakeElement("Frame"), {
+					Size = UDim2.new(0, 1, 1, 0),
+					Position = UDim2.new(0.5, 0, 0, 0)
+				}), "Stroke"), 
+				CloseBtn,
+				MinimizeBtn
+			}), "Second"), 
+		}),
+		DragPoint,
+		WindowStuff
+	}), "Main")
+
+	if WindowConfig.ShowIcon then
+		WindowName.Position = UDim2.new(0, 50, 0, -24)
+		local WindowIcon = SetProps(MakeElement("Image", WindowConfig.Icon), {
+			Size = UDim2.new(0, 20, 0, 20),
+			Position = UDim2.new(0, 25, 0, 15)
+		})
+		WindowIcon.Parent = MainWindow.TopBar
+	end	
+
+	MakeDraggable(DragPoint, MainWindow)
+
+	AddConnection(CloseBtn.MouseButton1Up, function()
+		MainWindow.Visible = false
+		UIHidden = true
+		GuiLib:MakeNotification({
+			Name = "GUI Hidden",
+			Content = "Tap RightShift to reopen the GUI",
+			Time = 5
+		})
+		WindowConfig.CloseCallback()
+	end)
+
+	AddConnection(UserInputService.InputBegan, function(Input)
+		if Input.KeyCode == Enum.KeyCode.RightShift and UIHidden then
+			MainWindow.Visible = true
+		end
+	end)
+
+	AddConnection(MinimizeBtn.MouseButton1Up, function()
+		if Minimized then
+			TweenService:Create(MainWindow, TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, 615, 0, 344)}):Play()
+			MinimizeBtn.Ico.Image = "rbxassetid://7072719338"
+			wait(.02)
+			MainWindow.ClipsDescendants = false
+			WindowStuff.Visible = true
+			WindowTopBarLine.Visible = true
+		else
+			MainWindow.ClipsDescendants = true
+			WindowTopBarLine.Visible = false
+			MinimizeBtn.Ico.Image = "rbxassetid://7072720870"
+
+			TweenService:Create(MainWindow, TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, WindowName.TextBounds.X + 140, 0, 50)}):Play()
+			wait(0.1)
+			WindowStuff.Visible = false	
+		end
+		Minimized = not Minimized    
+	end)
+
+	local function LoadSequence()
+		MainWindow.Visible = false
+		local LoadSequenceLogo = SetProps(MakeElement("Image", WindowConfig.IntroIcon), {
+			Parent = Autoplayer,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 0, 0.4, 0),
+			Size = UDim2.new(0, 28, 0, 28),
+			ImageColor3 = Color3.fromRGB(255, 255, 255),
+			ImageTransparency = 1
+		})
+
+		local LoadSequenceText = SetProps(MakeElement("Label", WindowConfig.IntroText, 14), {
+			Parent = Autoplayer,
+			Size = UDim2.new(1, 0, 1, 0),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 19, 0.5, 0),
+			TextXAlignment = Enum.TextXAlignment.Center,
+			Font = Enum.Font.GothamBold,
+			TextTransparency = 1
+		})
+
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 0, Position = UDim2.new(0.5, 0, 0.5, 0)}):Play()
+		wait(0.8)
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0.5, -(LoadSequenceText.TextBounds.X/2), 0.5, 0)}):Play()
+		wait(0.3)
+		TweenService:Create(LoadSequenceText, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+		wait(2)
+		TweenService:Create(LoadSequenceText, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 1}):Play()
+		MainWindow.Visible = true
+		LoadSequenceLogo:Destroy()
+		LoadSequenceText:Destroy()
+	end 
+
+	if WindowConfig.IntroEnabled then
+		LoadSequence()
+	end	
+
+	local TabFunction = {}
+	function TabFunction:MakeTab(TabConfig)
+		TabConfig = TabConfig or {}
+		TabConfig.Name = TabConfig.Name or "Tab"
+		TabConfig.Icon = TabConfig.Icon or ""
+		TabConfig.PremiumOnly = TabConfig.PremiumOnly or false
+
+		local TabFrame = SetChildren(SetProps(MakeElement("Button"), {
+			Size = UDim2.new(1, 0, 0, 30),
+			Parent = TabHolder
+		}), {
+			AddThemeObject(SetProps(MakeElement("Image", TabConfig.Icon), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 18, 0, 18),
+				Position = UDim2.new(0, 10, 0.5, 0),
+				ImageTransparency = 0.4,
+				Name = "Ico"
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
+				Size = UDim2.new(1, -35, 1, 0),
+				Position = UDim2.new(0, 35, 0, 0),
+				Font = Enum.Font.GothamSemibold,
+				TextTransparency = 0.4,
+				Name = "Title"
+			}), "Text")
+		})
+
+		if GetIcon(TabConfig.Icon) ~= nil then
+			TabFrame.Ico.Image = GetIcon(TabConfig.Icon)
+		end	
+
+		local Container = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 5), {
+			Size = UDim2.new(1, -150, 1, -50),
+			Position = UDim2.new(0, 150, 0, 50),
+			Parent = MainWindow,
+			Visible = false,
+			Name = "ItemContainer"
+		}), {
+			MakeElement("List", 0, 6),
+			MakeElement("Padding", 15, 10, 10, 15)
+		}), "Divider")
+
+		AddConnection(Container.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Container.CanvasSize = UDim2.new(0, 0, 0, Container.UIListLayout.AbsoluteContentSize.Y + 30)
+		end)
+
+		if FirstTab then
+			FirstTab = false
+			TabFrame.Ico.ImageTransparency = 0
+			TabFrame.Title.TextTransparency = 0
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			Container.Visible = true
+		end    
+
+		AddConnection(TabFrame.MouseButton1Click, function()
+			for _, Tab in next, TabHolder:GetChildren() do
+				if Tab:IsA("TextButton") then
+					Tab.Title.Font = Enum.Font.GothamSemibold
+					TweenService:Create(Tab.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0.4}):Play()
+					TweenService:Create(Tab.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0.4}):Play()
+				end    
+			end
+			for _, ItemContainer in next, MainWindow:GetChildren() do
+				if ItemContainer.Name == "ItemContainer" then
+					ItemContainer.Visible = false
+				end    
+			end  
+			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
+			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			Container.Visible = true   
+		end)
+
+		local function GetElements(ItemParent)
+			local ElementFunction = {}
+			function ElementFunction:AddLabel(Text)
+				local LabelFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", Text, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.Roboto, --------------------Font = Enum.Font.GothamBold
+						Name = "Content",
+						FontSize = 5,
+						TextXAlignment = Enum.TextXAlignment.Center --------------------------tôi chỉnh sửa canh giữa cho nút
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				local LabelFunction = {}
+				function LabelFunction:Set(ToChange)
+					LabelFrame.Content.Text = ToChange
+				end
+				return LabelFunction
+			end
+			function ElementFunction:AddParagraph(Text, Content)
+				Text = Text or "Text"
+				Content = Content or "Content"
+
+				local ParagraphFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", Text, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						FontSize = 6,	
+						Name = "Title"
+					}), "Text"),
+					AddThemeObject(SetProps(MakeElement("Label", "", 13), {
+						Size = UDim2.new(1, -24, 0, 0),
+						Position = UDim2.new(0, 12, 0, 26),
+						Font = Enum.Font.GothamSemibold,
+						FontSize = 5,						
+						Name = "Content",
+						TextWrapped = true
+					}), "TextDark"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				AddConnection(ParagraphFrame.Content:GetPropertyChangedSignal("Text"), function()
+					ParagraphFrame.Content.Size = UDim2.new(1, -24, 0, ParagraphFrame.Content.TextBounds.Y)
+					ParagraphFrame.Size = UDim2.new(1, 0, 0, ParagraphFrame.Content.TextBounds.Y + 35)
+				end)
+
+				ParagraphFrame.Content.Text = Content
+
+				local ParagraphFunction = {}
+				function ParagraphFunction:Set(ToChange)
+					ParagraphFrame.Content.Text = ToChange
+				end
+				return ParagraphFunction
+			end    
+			function ElementFunction:AddButton(ButtonConfig)
+				ButtonConfig = ButtonConfig or {}
+				ButtonConfig.Name = ButtonConfig.Name or "Button"
+				ButtonConfig.Callback = ButtonConfig.Callback or function() end
+				ButtonConfig.Icon = ButtonConfig.Icon or "rbxassetid://3944703587"
+
+				local Button = {}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ButtonFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 33),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", ButtonConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content",
+						TextXAlignment = Enum.TextXAlignment.Center --------------------------tôi chỉnh sửa canh giữa cho nút
+					}), "Text"),
+					AddThemeObject(SetProps(MakeElement("Image", ButtonConfig.Icon), {
+						Size = UDim2.new(0, 20, 0, 20),
+						Position = UDim2.new(1, -30, 0, 7),
+					}), "ColorButton"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					Click
+				}), "Second")
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 10, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 10, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 10)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = GuiLib.Themes[GuiLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 10, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 10, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 10)}):Play()
+					spawn(function()
+						ButtonConfig.Callback()
+					end)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 20, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 20, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 20)}):Play()
+				end)
+
+				function Button:Set(ButtonText)
+					ButtonFrame.Content.Text = ButtonText
+				end	
+
+				return Button
+			end    
+			function ElementFunction:AddToggle(ToggleConfig)
+				ToggleConfig = ToggleConfig or {}
+				ToggleConfig.Name = ToggleConfig.Name or "Toggle"
+				ToggleConfig.Default = ToggleConfig.Default or false
+				ToggleConfig.Callback = ToggleConfig.Callback or function() end
+				ToggleConfig.Color = ToggleConfig.Color or Color3.fromRGB(9, 99, 195)
+				ToggleConfig.Flag = ToggleConfig.Flag or nil
+				ToggleConfig.Save = ToggleConfig.Save or false
+
+				local Toggle = {Value = ToggleConfig.Default, Save = ToggleConfig.Save}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ToggleBox = SetChildren(SetProps(MakeElement("RoundFrame", ToggleConfig.Color, 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -24, 0.5, 0),
+					AnchorPoint = Vector2.new(0.5, 0.5)
+				}), {
+					SetProps(MakeElement("Stroke"), {
+						Color = ToggleConfig.Color,
+						Name = "Stroke",
+						Transparency = 0.5
+					}),
+					SetProps(MakeElement("Image", "rbxassetid://3944680095"), {
+						Size = UDim2.new(0, 20, 0, 20),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						Position = UDim2.new(0.5, 0, 0.5, 0),
+						ImageColor3 = Color3.fromRGB(255, 255, 255),
+						Name = "Ico"
+					}),
+				})
+
+				local ToggleFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", ToggleConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					ToggleBox,
+					Click
+				}), "Second")
+
+				function Toggle:Set(Value)
+					Toggle.Value = Value
+					TweenService:Create(ToggleBox, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Toggle.Value and ToggleConfig.Color or GuiLib.Themes.Default.Divider}):Play()
+					TweenService:Create(ToggleBox.Stroke, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Color = Toggle.Value and ToggleConfig.Color or GuiLib.Themes.Default.Stroke}):Play()
+					TweenService:Create(ToggleBox.Ico, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = Toggle.Value and 0 or 1, Size = Toggle.Value and UDim2.new(0, 20, 0, 20) or UDim2.new(0, 8, 0, 8)}):Play()
+					ToggleConfig.Callback(Toggle.Value)
+				end    
+
+				Toggle:Set(Toggle.Value)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = GuiLib.Themes[GuiLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					SaveCfg(game.GameId)
+					Toggle:Set(not Toggle.Value)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				if ToggleConfig.Flag then
+					GuiLib.Flags[ToggleConfig.Flag] = Toggle
+				end	
+				return Toggle
+			end  
+			function ElementFunction:AddSlider(SliderConfig)
+				SliderConfig = SliderConfig or {}
+				SliderConfig.Name = SliderConfig.Name or "Slider"
+				SliderConfig.Min = SliderConfig.Min or 0
+				SliderConfig.Max = SliderConfig.Max or 100
+				SliderConfig.Increment = SliderConfig.Increment or 0.5
+				SliderConfig.Default = SliderConfig.Default or 50
+				SliderConfig.Callback = SliderConfig.Callback or function() end
+				SliderConfig.ValueName = SliderConfig.ValueName or ""
+				SliderConfig.Color = SliderConfig.Color or Color3.fromRGB(9, 149, 98)
+				SliderConfig.Flag = SliderConfig.Flag or nil
+				SliderConfig.Save = SliderConfig.Save or false
+
+				local Slider = {Value = SliderConfig.Default, Save = SliderConfig.Save}
+				local Dragging = false
+
+				local SliderDrag = SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(0, 0, 1, 0),
+					BackgroundTransparency = 0.3,
+					ClipsDescendants = true
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0
+					}), "Text")
+				})
+
+				local SliderBar = SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(1, -24, 0, 26),
+					Position = UDim2.new(0, 12, 0, 30),
+					BackgroundTransparency = 0.9
+				}), {
+					SetProps(MakeElement("Stroke"), {
+						Color = SliderConfig.Color
+					}),
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0.8
+					}), "Text"),
+					SliderDrag
+				})
+
+				local SliderFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(1, 0, 0, 65),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", SliderConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					SliderBar
+				}), "Second")
+
+				SliderBar.InputBegan:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then 
+						Dragging = true 
+					end 
+				end)
+				SliderBar.InputEnded:Connect(function(Input) 
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then 
+						Dragging = false 
+					end 
+				end)
+
+				UserInputService.InputChanged:Connect(function(Input)
+					if Dragging and Input.UserInputType == Enum.UserInputType.MouseMovement then 
+						local SizeScale = math.clamp((Input.Position.X - SliderBar.AbsolutePosition.X) / SliderBar.AbsoluteSize.X, 0, 1)
+						Slider:Set(SliderConfig.Min + ((SliderConfig.Max - SliderConfig.Min) * SizeScale)) 
+						SaveCfg(game.GameId)
+					end
+				end)
+
+				function Slider:Set(Value)
+					self.Value = math.clamp(Round(Value, SliderConfig.Increment), SliderConfig.Min, SliderConfig.Max)
+					TweenService:Create(SliderDrag,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = UDim2.fromScale((self.Value - SliderConfig.Min) / (SliderConfig.Max - SliderConfig.Min), 1)}):Play()
+					SliderBar.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderDrag.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderConfig.Callback(self.Value)
+				end      
+
+				Slider:Set(Slider.Value)
+				if SliderConfig.Flag then				
+					GuiLib.Flags[SliderConfig.Flag] = Slider
+				end
+				return Slider
+			end  
+			function ElementFunction:AddDropdown(DropdownConfig)
+				DropdownConfig = DropdownConfig or {}
+				DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+				DropdownConfig.Options = DropdownConfig.Options or {}
+				DropdownConfig.Default = DropdownConfig.Default or ""
+				DropdownConfig.Callback = DropdownConfig.Callback or function() end
+				DropdownConfig.Flag = DropdownConfig.Flag or nil
+				DropdownConfig.Save = DropdownConfig.Save or false
+
+				local Dropdown = {Value = DropdownConfig.Default, Options = DropdownConfig.Options, Buttons = {}, Toggled = false, Type = "Dropdown", Save = DropdownConfig.Save}
+				local MaxElements = 5
+
+				if not table.find(Dropdown.Options, Dropdown.Value) then
+					Dropdown.Value = "..."
+				end
+
+				local DropdownList = MakeElement("List")
+
+				local DropdownContainer = AddThemeObject(SetProps(SetChildren(MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4), {
+					DropdownList
+				}), {
+					Parent = ItemParent,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(1, 0, 1, -38),
+					ClipsDescendants = true
+				}), "Divider")
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local DropdownFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent,
+					ClipsDescendants = true
+				}), {
+					DropdownContainer,
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", DropdownConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+							Size = UDim2.new(0, 20, 0, 20),
+							AnchorPoint = Vector2.new(0, 0.5),
+							Position = UDim2.new(1, -30, 0.5, 0),
+							ImageColor3 = Color3.fromRGB(240, 240, 240),
+							Name = "Ico"
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Label", "Selected", 13), {
+							Size = UDim2.new(1, -40, 1, 0),
+							Font = Enum.Font.Gotham,
+							Name = "Selected",
+							TextXAlignment = Enum.TextXAlignment.Right
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+						Click
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					MakeElement("Corner")
+				}), "Second")
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+				end)  
+
+				local function AddOptions(Options)
+					for _, Option in pairs(Options) do
+						local OptionBtn = AddThemeObject(SetProps(SetChildren(MakeElement("Button", Color3.fromRGB(40, 40, 40)), {
+							MakeElement("Corner", 0, 6),
+							AddThemeObject(SetProps(MakeElement("Label", Option, 13, 0.4), {
+								Position = UDim2.new(0, 8, 0, 0),
+								Size = UDim2.new(1, -8, 1, 0),
+								Name = "Title"
+							}), "Text")
+						}), {
+							Parent = DropdownContainer,
+							Size = UDim2.new(1, 0, 0, 28),
+							BackgroundTransparency = 1,
+							ClipsDescendants = true
+						}), "Divider")
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							Dropdown:Set(Option)
+							SaveCfg(game.GameId)
+						end)
+
+						Dropdown.Buttons[Option] = OptionBtn
+					end
+				end	
+
+				function Dropdown:Refresh(Options, Delete)
+					if Delete then
+						for _,v in pairs(Dropdown.Buttons) do
+							v:Destroy()
+						end    
+						table.clear(Dropdown.Options)
+						table.clear(Dropdown.Buttons)
+					end
+					Dropdown.Options = Options
+					AddOptions(Dropdown.Options)
+				end  
+
+				function Dropdown:Set(Value)
+					if not table.find(Dropdown.Options, Value) then
+						Dropdown.Value = "..."
+						DropdownFrame.F.Selected.Text = Dropdown.Value
+						for _, v in pairs(Dropdown.Buttons) do
+							TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+							TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+						end	
+						return
+					end
+
+					Dropdown.Value = Value
+					DropdownFrame.F.Selected.Text = Dropdown.Value
+
+					for _, v in pairs(Dropdown.Buttons) do
+						TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+						TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+					end	
+					TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0}):Play()
+					TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+					return DropdownConfig.Callback(Dropdown.Value)
+				end
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(DropdownFrame.F.Ico,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Rotation = Dropdown.Toggled and 180 or 0}):Play()
+					if #Dropdown.Options > MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 28)) or UDim2.new(1, 0, 0, 38)}):Play()
+					else
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, DropdownList.AbsoluteContentSize.Y + 38) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+				end)
+
+				Dropdown:Refresh(Dropdown.Options, false)
+				Dropdown:Set(Dropdown.Value)
+				if DropdownConfig.Flag then				
+					GuiLib.Flags[DropdownConfig.Flag] = Dropdown
+				end
+				return Dropdown
+			end
+			function ElementFunction:AddBind(BindConfig)
+				BindConfig.Name = BindConfig.Name or "Bind"
+				BindConfig.Default = BindConfig.Default or Enum.KeyCode.Unknown
+				BindConfig.Hold = BindConfig.Hold or false
+				BindConfig.Callback = BindConfig.Callback or function() end
+				BindConfig.Flag = BindConfig.Flag or nil
+				BindConfig.Save = BindConfig.Save or false
+
+				local Bind = {Value, Binding = false, Type = "Bind", Save = BindConfig.Save}
+				local Holding = false
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local BindBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 14), {
+						Size = UDim2.new(1, 0, 1, 0),
+						Font = Enum.Font.GothamBold,
+						TextXAlignment = Enum.TextXAlignment.Center,
+						Name = "Value"
+					}), "Text")
+				}), "Main")
+
+				local BindFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					BindBox,
+					Click
+				}), "Second")
+
+				AddConnection(BindBox.Value:GetPropertyChangedSignal("Text"), function()
+					--BindBox.Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)
+					TweenService:Create(BindBox, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(Click.InputEnded, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if Bind.Binding then return end
+						Bind.Binding = true
+						BindBox.Value.Text = ""
+					end
+				end)
+
+				AddConnection(UserInputService.InputBegan, function(Input)
+					if UserInputService:GetFocusedTextBox() then return end
+					if (Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value) and not Bind.Binding then
+						if BindConfig.Hold then
+							Holding = true
+							BindConfig.Callback(Holding)
+						else
+							BindConfig.Callback()
+						end
+					elseif Bind.Binding then
+						local Key
+						pcall(function()
+							if not CheckKey(BlacklistedKeys, Input.KeyCode) then
+								Key = Input.KeyCode
+							end
+						end)
+						pcall(function()
+							if CheckKey(WhitelistedMouse, Input.UserInputType) and not Key then
+								Key = Input.UserInputType
+							end
+						end)
+						Key = Key or Bind.Value
+						Bind:Set(Key)
+						SaveCfg(game.GameId)
+					end
+				end)
+
+				AddConnection(UserInputService.InputEnded, function(Input)
+					if Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value then
+						if BindConfig.Hold and Holding then
+							Holding = false
+							BindConfig.Callback(Holding)
+						end
+					end
+				end)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = GuiLib.Themes[GuiLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				function Bind:Set(Key)
+					Bind.Binding = false
+					Bind.Value = Key or Bind.Value
+					Bind.Value = Bind.Value.Name or Bind.Value
+					BindBox.Value.Text = Bind.Value
+				end
+
+				Bind:Set(BindConfig.Default)
+				if BindConfig.Flag then				
+					GuiLib.Flags[BindConfig.Flag] = Bind
+				end
+				return Bind
+			end  
+			function ElementFunction:AddTextbox(TextboxConfig)
+				TextboxConfig = TextboxConfig or {}
+				TextboxConfig.Name = TextboxConfig.Name or "Textbox"
+				TextboxConfig.Default = TextboxConfig.Default or ""
+				TextboxConfig.TextDisappear = TextboxConfig.TextDisappear or false
+				TextboxConfig.Callback = TextboxConfig.Callback or function() end
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local TextboxActual = AddThemeObject(Create("TextBox", {
+					Size = UDim2.new(1, 0, 1, 0),
+					BackgroundTransparency = 1,
+					TextColor3 = Color3.fromRGB(255, 255, 255),
+					PlaceholderColor3 = Color3.fromRGB(210,210,210),
+					PlaceholderText = "Input your text here",
+					Font = Enum.Font.GothamSemibold,
+					TextXAlignment = Enum.TextXAlignment.Center,
+					TextSize = 14,
+					ClearTextOnFocus = true
+				}), "Text")
+
+				local TextContainer = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextboxActual
+				}), "Main")
+
+
+				local TextboxFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", TextboxConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextContainer,
+					Click
+				}), "Second")
+
+				AddConnection(TextboxActual:GetPropertyChangedSignal("Text"), function()
+					--TextContainer.Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)
+					TweenService:Create(TextContainer, TweenInfo.new(0.45, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(TextboxActual.FocusLost, function()
+					TextboxConfig.Callback(TextboxActual.Text)
+					if TextboxConfig.TextDisappear then
+						TextboxActual.Text = ""
+					end	
+				end)
+
+				TextboxActual.Text = TextboxConfig.Default
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = GuiLib.Themes[GuiLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 3, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					TextboxActual:CaptureFocus()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(GuiLib.Themes[GuiLib.SelectedTheme].Second.R * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.G * 255 + 6, GuiLib.Themes[GuiLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+			end 
+			function ElementFunction:AddColorpicker(ColorpickerConfig)
+				ColorpickerConfig = ColorpickerConfig or {}
+				ColorpickerConfig.Name = ColorpickerConfig.Name or "Colorpicker"
+				ColorpickerConfig.Default = ColorpickerConfig.Default or Color3.fromRGB(255,255,255)
+				ColorpickerConfig.Callback = ColorpickerConfig.Callback or function() end
+				ColorpickerConfig.Flag = ColorpickerConfig.Flag or nil
+				ColorpickerConfig.Save = ColorpickerConfig.Save or false
+
+				local ColorH, ColorS, ColorV = 1, 1, 1
+				local Colorpicker = {Value = ColorpickerConfig.Default, Toggled = false, Type = "Colorpicker", Save = ColorpickerConfig.Save}
+
+				local ColorSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(select(3, Color3.toHSV(Colorpicker.Value))),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local HueSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0.5, 0, 1 - select(1, Color3.toHSV(Colorpicker.Value))),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local Color = Create("ImageLabel", {
+					Size = UDim2.new(1, -25, 1, 0),
+					Visible = false,
+					Image = "rbxassetid://4155801252"
+				}, {
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					ColorSelection
+				})
+
+				local Hue = Create("Frame", {
+					Size = UDim2.new(0, 20, 1, 0),
+					Position = UDim2.new(1, -20, 0, 0),
+					Visible = false
+				}, {
+					Create("UIGradient", {Rotation = 270, Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)), ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)), ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)), ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)), ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)), ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))},}),
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					HueSelection
+				})
+
+				local ColorpickerContainer = Create("Frame", {
+					Position = UDim2.new(0, 0, 0, 32),
+					Size = UDim2.new(1, 0, 1, -32),
+					BackgroundTransparency = 1,
+					ClipsDescendants = true
+				}, {
+					Hue,
+					Color,
+					Create("UIPadding", {
+						PaddingLeft = UDim.new(0, 35),
+						PaddingRight = UDim.new(0, 35),
+						PaddingBottom = UDim.new(0, 10),
+						PaddingTop = UDim.new(0, 17)
+					})
+				})
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ColorpickerBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Main")
+
+				local ColorpickerFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", ColorpickerConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						ColorpickerBox,
+						Click,
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					ColorpickerContainer,
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				}), "Second")
+
+				AddConnection(Click.MouseButton1Click, function()
+					Colorpicker.Toggled = not Colorpicker.Toggled
+					TweenService:Create(ColorpickerFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Colorpicker.Toggled and UDim2.new(1, 0, 0, 148) or UDim2.new(1, 0, 0, 38)}):Play()
+					Color.Visible = Colorpicker.Toggled
+					Hue.Visible = Colorpicker.Toggled
+					ColorpickerFrame.F.Line.Visible = Colorpicker.Toggled
+				end)
+
+				local function UpdateColorPicker()
+					ColorpickerBox.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+					Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+					Colorpicker:Set(ColorpickerBox.BackgroundColor3)
+					ColorpickerConfig.Callback(ColorpickerBox.BackgroundColor3)
+					SaveCfg(game.GameId)
+				end
+
+				ColorH = 1 - (math.clamp(HueSelection.AbsolutePosition.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) / Hue.AbsoluteSize.Y)
+				ColorS = (math.clamp(ColorSelection.AbsolutePosition.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) / Color.AbsoluteSize.X)
+				ColorV = 1 - (math.clamp(ColorSelection.AbsolutePosition.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) / Color.AbsoluteSize.Y)
+
+				AddConnection(Color.InputBegan, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+						ColorInput = AddConnection(RunService.RenderStepped, function()
+							local ColorX = (math.clamp(Mouse.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) / Color.AbsoluteSize.X)
+							local ColorY = (math.clamp(Mouse.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) / Color.AbsoluteSize.Y)
+							ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+							ColorS = ColorX
+							ColorV = 1 - ColorY
+							UpdateColorPicker()
+						end)
+					end
+				end)
+
+				AddConnection(Color.InputEnded, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+					end
+				end)
+
+				AddConnection(Hue.InputBegan, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if HueInput then
+							HueInput:Disconnect()
+						end;
+
+						HueInput = AddConnection(RunService.RenderStepped, function()
+							local HueY = (math.clamp(Mouse.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) / Hue.AbsoluteSize.Y)
+
+							HueSelection.Position = UDim2.new(0.5, 0, HueY, 0)
+							ColorH = 1 - HueY
+
+							UpdateColorPicker()
+						end)
+					end
+				end)
+
+				AddConnection(Hue.InputEnded, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if HueInput then
+							HueInput:Disconnect()
+						end
+					end
+				end)
+
+				function Colorpicker:Set(Value)
+					Colorpicker.Value = Value
+					ColorpickerBox.BackgroundColor3 = Colorpicker.Value
+					ColorpickerConfig.Callback(Colorpicker.Value)
+				end
+
+				Colorpicker:Set(Colorpicker.Value)
+				if ColorpickerConfig.Flag then				
+					GuiLib.Flags[ColorpickerConfig.Flag] = Colorpicker
+				end
+				return Colorpicker
+			end  
+			return ElementFunction   
+		end	
+
+		local ElementFunction = {}
+
+		function ElementFunction:AddSection(SectionConfig)
+			SectionConfig.Name = SectionConfig.Name or "Section"
+
+			local SectionFrame = SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 0, 26),
+				Parent = Container
+			}), {
+				AddThemeObject(SetProps(MakeElement("Label", SectionConfig.Name, 14), {
+					Size = UDim2.new(1, -12, 0, 16),
+					Position = UDim2.new(0, 0, 0, 3),
+					Font = Enum.Font.GothamSemibold
+				}), "TextDark"),
+				SetChildren(SetProps(MakeElement("TFrame"), {
+					AnchorPoint = Vector2.new(0, 0),
+					Size = UDim2.new(1, 0, 1, -24),
+					Position = UDim2.new(0, 0, 0, 23),
+					Name = "Holder"
+				}), {
+					MakeElement("List", 0, 6)
+				}),
+			})
+
+			AddConnection(SectionFrame.Holder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+				SectionFrame.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y + 31)
+				SectionFrame.Holder.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y)
+			end)
+
+			local SectionFunction = {}
+			for i, v in next, GetElements(SectionFrame.Holder) do
+				SectionFunction[i] = v 
+			end
+			return SectionFunction
+		end	
+
+		for i, v in next, GetElements(Container) do
+			ElementFunction[i] = v 
+		end
+
+		if TabConfig.PremiumOnly then
+			for i, v in next, ElementFunction do
+				ElementFunction[i] = function() end
+			end    
+			Container:FindFirstChild("UIListLayout"):Destroy()
+			Container:FindFirstChild("UIPadding"):Destroy()
+			SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 1, 0),
+				Parent = ItemParent
+			}), {
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://3610239960"), {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0, 15, 0, 15),
+					ImageTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Unauthorised Access", 14), {
+					Size = UDim2.new(1, -38, 0, 14),
+					Position = UDim2.new(0, 38, 0, 18),
+					TextTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4483345875"), {
+					Size = UDim2.new(0, 56, 0, 56),
+					Position = UDim2.new(0, 84, 0, 110),
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Premium Features", 14), {
+					Size = UDim2.new(1, -150, 0, 14),
+					Position = UDim2.new(0, 150, 0, 112),
+					Font = Enum.Font.GothamBold
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "This part of the script is locked to Sirius Premium users. Purchase Premium in the Discord server (discord.gg/sirius)", 12), {
+					Size = UDim2.new(1, -200, 0, 14),
+					Position = UDim2.new(0, 150, 0, 138),
+					TextWrapped = true,
+					TextTransparency = 0.4
+				}), "Text")
+			})
+		end
+		return ElementFunction   
+	end  
+
+	--if writefile and isfile then
+	--	if not isfile("NewLibraryNotification1.txt") then
+	--		local http_req = (syn and syn.request) or (http and http.request) or http_request
+	--		if http_req then
+	--			http_req({
+	--				Url = 'http://127.0.0.1:6463/rpc?v=1',
+	--				Method = 'POST',
+	--				Headers = {
+	--					['Content-Type'] = 'application/json',
+	--					Origin = 'https://discord.com'
+	--				},
+	--				Body = HttpService:JSONEncode({
+	--					cmd = 'INVITE_BROWSER',
+	--					nonce = HttpService:GenerateGUID(false),
+	--					args = {code = 'sirius'}
+	--				})
+	--			})
+	--		end
+	--		GuiLib:MakeNotification({
+	--			Name = "UI Library Available",
+	--			Content = "New UI Library Available - Joining Discord (#announcements)",
+	--			Time = 8
+	--		})
+	--		spawn(function()
+	--			local UI = game:GetObjects("rbxassetid://11403719739")[1]
+
+	--			if gethui then
+	--				UI.Parent = gethui()
+	--			elseif syn.protect_gui then
+	--				syn.protect_gui(UI)
+	--				UI.Parent = game.CoreGui
+	--			else
+	--				UI.Parent = game.CoreGui
+	--			end
+
+	--			wait(11)
+
+	--			UI:Destroy()
+	--		end)
+	--		writefile("NewLibraryNotification1.txt","The value for the notification having been sent to you.")
+	--	end
+	--end
+
+
+
+	return TabFunction
+end   
+
+function GuiLib:Destroy()
+	Autoplayer:Destroy()
+end
+
+return GuiLib
