@@ -484,8 +484,8 @@ function GuiLib:MakeWindow(WindowConfig)
 	WindowConfig.IntroText = WindowConfig.IntroText or "Autoplayer Library"
 	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
 	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
-	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://13217801150"
-	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://13217801150"
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://14710342232"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://14710342232"
 	GuiLib.Folder = WindowConfig.ConfigFolder
 	GuiLib.SaveCfg = WindowConfig.SaveConfig
 
@@ -531,7 +531,7 @@ function GuiLib:MakeWindow(WindowConfig)
 	local DragPoint = SetProps(MakeElement("TFrame"), {
 		Size = UDim2.new(1, 0, 0, 50)
 	})
-	local Logo = AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://13217801150"), {
+	local Logo = AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://14710342232"), {
 		    Position = UDim2.new(0, 0, 0, 0), --vi trí logo
 		    Size = UDim2.new(0, 45, 0, 45), -- Size
 		    BackgroundTransparency = 1
